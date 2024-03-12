@@ -1,0 +1,210 @@
+[
+    {
+        "CODES": "PED1301",
+        "UE": "Pédagogie",
+        "ECU": "Didactique générale",
+        "ENSEIGNANTS": "Dr Debora HOUNKPE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "PED1301",
+        "UE": "Pédagogie",
+        "ECU": "Eléments d’Andragogie",
+        "ENSEIGNANTS": "Dr. P. Jean DJESSOUKPO",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "PEN1302",
+        "UE": "Psychologie et Neurosciences",
+        "ECU": "Psychologie du développement",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PEN1302",
+        "UE": "Psychologie et Neurosciences",
+        "ECU": "Psychophysiologie-neurosciences",
+        "ENSEIGNANTS": "Dr Gisèle TOUDONOU",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESO1303/3",
+        "UE": "Education et Société",
+        "ECU": "Sociologie de l’éducation",
+        "ENSEIGNANTS": "Dr. P. Jean DJESSOUKPO",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESO1303/3",
+        "UE": "Education et Société",
+        "ECU": "Education et Médias",
+        "ENSEIGNANTS": "Dr P. Hubert KEDOWIDE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "MES1305/5",
+        "UE": "Législation et approche éducative",
+        "ECU": "Législation et Organisation Scolaire",
+        "ENSEIGNANTS": "Dr Débora",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "MES1305/5",
+        "UE": "Législation et approche éducative",
+        "ECU": "Approche Educative de la Lecture",
+        "ENSEIGNANTS": "Dr. CHOGOLOU",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1306",
+        "UE": " Motivation  et Evaluation",
+        "ECU": "Evaluation des Apprentissages",
+        "ENSEIGNANTS": "Dr P NAYETON",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1306",
+        "UE": " Motivation  et Evaluation",
+        "ECU": "La motivation en contexte scolaire",
+        "ENSEIGNANTS": "Dr. CHOGOLOU",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "CEO1304",
+        "UE": "Management Social",
+        "ECU": "Management des services",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "CEO1304",
+        "UE": "Management Social",
+        "ECU": "Management et politique communautaire",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "ETA1304",
+        "UE": "Ethique appliquée",
+        "ECU": "Ethique et santé de la reproduction",
+        "ENSEIGNANTS": "Dr Gisèle TOUDONOU",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "ETA1304",
+        "UE": "Ethique appliquée",
+        "ECU": "Bioéthique et défis de l’Afrique",
+        "ENSEIGNANTS": "Dr P. Magloire OKRY/ P. Charles AZANTSI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "UE": "Droit Fondamentaux de la Personne Humaine",
+        "ECU": "Droit fondamentaux de la personne humaine",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4"
+    },
+    {
+        "CODES": "APD1402/2",
+        "UE": "Approche Psychosociale et développement",
+        "ECU": "Approche Psychosociale du changement d’attitude et de comportement",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4"
+    },
+    {
+        "CODES": "APD1402/2",
+        "UE": "Approche Psychosociale et développement",
+        "ECU": "Psychologie du Développement Humain",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4"
+    },
+    {
+        "CODES": "APM5114",
+        "UE": "Anatomie et Physiologie Mentale",
+        "ECU": "Anatomie et Physiologie Mentale",
+        "ENSEIGNANTS": "Dr Gisèle TOUDONOU",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4"
+    },
+    {
+        "CODES": "ESH1404/4",
+        "UE": "Enquête en Sciences Humaines et Sociales",
+        "ECU": "Enquête en Sciences Humaines et Sociales",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "ESH1404/4",
+        "UE": "Enquête en Sciences Humaines et Sociales",
+        "ECU": "Observation en Sciences Humaines et Sociales",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1405/05",
+        "UE": "Séminaire et Stage",
+        "ECU": "Séminaire Thématique II",
+        "ENSEIGNANTS": "Dr P Dominique AGBALEYON",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1405/05",
+        "UE": "Séminaire et Stage",
+        "ECU": "Stage d’Approfondissement",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "REE1406/6",
+        "UE": "Ressources et Entreprenariat",
+        "ECU": "Entreprenariat et Gestion des Projets",
+        "ENSEIGNANTS": "M. Faustin DJAGBA",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE CULTURE"
+    },
+    {
+        "CODES": "REE1406/6",
+        "UE": "Ressources et Entreprenariat",
+        "ECU": "Gestion des Ressources Humaines",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE CULTURE"
+    }
+]

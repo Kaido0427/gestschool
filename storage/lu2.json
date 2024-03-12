@@ -1,0 +1,207 @@
+[
+    {
+        "CODES": "ANT1301",
+        "UE": "Anthropologie",
+        "ECU": "Anthropologie fondamentale",
+        "ENSEIGNANTS": "Dr. Charlotte ALE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "ANT1301",
+        "UE": "Anthropologie",
+        "ECU": "Anthropologie des valeurs humaines",
+        "ENSEIGNANTS": "Dr. Nadine SOSSOUHOUNTO",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "PEN1302",
+        "UE": "Psychologie et Neurosciences",
+        "ECU": "Psychologie du développement",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PEN1302",
+        "UE": "Psychologie et Neurosciences",
+        "ECU": "Psychophysiologie-neurosciences",
+        "ENSEIGNANTS": "Dr Gisèle TOUDONOU",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESO1303/3",
+        "UE": "Education et Société",
+        "ECU": "Sociologie de l’éducation",
+        "ENSEIGNANTS": "Dr. P. Jean DJESSOUKPO",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESO1303/3",
+        "UE": "Education et Société",
+        "ECU": "Education et Médias",
+        "ENSEIGNANTS": "Dr P. Hubert KEDOWIDE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SAF1302",
+        "UE": "Socio-Anthropologie de la Famille",
+        "ECU": "Sociologie des conflits",
+        "ENSEIGNANTS": "Dr P. J. M. BOTCHI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SAF1302",
+        "UE": "Socio-Anthropologie de la Famille",
+        "ECU": "Socio-Anthropologie Africaine",
+        "ENSEIGNANTS": "Dr. Timothé TOGBE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "CEO1304",
+        "UE": "Management Social",
+        "ECU": "Management des services",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "CEO1304",
+        "UE": "Management Social",
+        "ECU": "Management et politique communautaire",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "ETA1304",
+        "UE": "Ethique appliquée",
+        "ECU": "Ethique et santé de la reproduction",
+        "ENSEIGNANTS": "Sr Jérémie",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "ETA1304",
+        "UE": "Ethique appliquée",
+        "ECU": "Bioéthique et défis de l’Afrique",
+        "ENSEIGNANTS": "Dr P. Magloire OKRY/ P. Charles AZANTSI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "UE": "Droit Fondamentaux de la Personne Humaine",
+        "ECU": "Droit fondamentaux de la personne humaine",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "APD1402/2",
+        "UE": "Approche Psychosociale et développement",
+        "ECU": "Approche Psychosociale du changement d’attitude et de comportement",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "APD1402/2",
+        "UE": "Approche Psychosociale et développement",
+        "ECU": "Psychologie du Développement Humain",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PDD1403/3",
+        "UE": "Philosophie du Droit",
+        "ECU": "Philosophie du Droit Matrimonial",
+        "ENSEIGNANTS": "Dr Sr. Perpétue TIGRY",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PDD1403/3",
+        "UE": "Philosophie du Droit",
+        "ECU": "Droit Coutumier et Civil du Mariage",
+        "ENSEIGNANTS": "Dr Sr Laure Edwidge",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESH1404/4",
+        "UE": "Enquête en Sciences Humaines et Sociales",
+        "ECU": "Enquête en Sciences Humaines et Sociales",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "ESH1404/4",
+        "UE": "Enquête en Sciences Humaines et Sociales",
+        "ECU": "Observation en Sciences Humaines et Sociales",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1405/05",
+        "UE": "Séminaire et Stage",
+        "ECU": "Séminaire Thématique II",
+        "ENSEIGNANTS": "Dr P Dominique AGBALENYO",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1405/05",
+        "UE": "Séminaire et Stage",
+        "ECU": "Stage d’Approfondissement",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "REE1406/6",
+        "UE": "Ressources et Entreprenariat",
+        "ECU": "Entreprenariat et Gestion des Projets",
+        "ENSEIGNANTS": "M. Faustin DJAGBA",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE CULTURE"
+    },
+    {
+        "CODES": "REE1406/6",
+        "UE": "Ressources et Entreprenariat",
+        "ECU": "Gestion des Ressources Humaines",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE CULTURE"
+    }
+]

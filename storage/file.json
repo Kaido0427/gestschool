@@ -1,0 +1,2425 @@
+[{
+    "CODES": "TIC 1101",
+    "UE": "Technologie de l’Information et de la\r\nCommunication",
+    "ECU": "Initiation à l’informatique",
+    "ENSEIGNANTS": "Dr Boris DJIMADJA SAV",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE CONNAISSANCES FONDAMENTALES"
+},
+{
+    "CODES": "TIC 1101",
+    "UE": "Technologie de l’Information et de la\r\nCommunication",
+    "ECU": "Bureautique et internet",
+    "ENSEIGNANTS": "Dr Boris DJIMADJA SAV",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE CONNAISSANCES FONDAMENTALES"
+},
+{
+    "CODES": "FSO1102",
+    "UE": "Fondamentaux en Sociologie",
+    "ECU": "Sociologie générale",
+    "ENSEIGNANTS": "Dr. Nadine SOSSOUHOUNTO",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE CONNAISSANCES FONDAMENTALES"
+},
+{
+    "CODES": "FSO1102",
+    "UE": "Fondamentaux en Sociologie",
+    "ECU": "Sociologie de la famille",
+    "ENSEIGNANTS": "Dr Charlotte ALE",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE CONNAISSANCES FONDAMENTALES"
+},
+{
+    "CODES": "FPS1103",
+    "UE": "Fondamentaux en Psychologie",
+    "ECU": "Psychologie générale et cognitive",
+    "ENSEIGNANTS": "Prof Magloire GANSOU",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE SPECIALITE"
+},
+{
+    "CODES": "FPS1103",
+    "UE": "Fondamentaux en Psychologie",
+    "ECU": "Psychologie sociale",
+    "ENSEIGNANTS": "Dr Antonella CRISANTE",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE SPECIALITE"
+},
+{
+    "CODES": "EEC1104 ",
+    "UE": "Expression Ecrite   et Créativité (EEC)",
+    "ECU": "Expression Ecrite et Orale (EEO)",
+    "ENSEIGNANTS": "Prof Julien GBAGUIDI",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE SPECIALITE"
+},
+{
+    "CODES": "EEC1104",
+    "UE": "Expression Ecrite   et Créativité (EEC)",
+    "ECU": "Créativité",
+    "ENSEIGNANTS": "Dr Roger ANOUMOU",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE SPECIALITE"
+},
+{
+    "CODES": "MES1105",
+    "UE": "Méthodologie et Statistiques",
+    "ECU": "Statistiques – Mesurage I",
+    "ENSEIGNANTS": "Dr AZIZOU",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE METHODOLOGIE"
+},
+{
+    "CODES": "MES1105",
+    "UE": "Méthodologie et Statistiques",
+    "ECU": "Les Méthodologies de travail universitaire",
+    "ENSEIGNANTS": "Prof Charles BABADJIDE",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE DE METHODOLOGIE"
+},
+{
+    "CODES": "LAV1106",
+    "UE": "Langues Vivantes",
+    "ECU": "Anglais",
+    "ENSEIGNANTS": "Dr Jérémie DOVONOU",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE CULTURE GÉNÉRALE"
+},
+{
+    "CODES": "LAV1106",
+    "UE": "Langues Vivantes",
+    "ECU": "Italien",
+    "ENSEIGNANTS": "Sr Agnese GIOVANAZZI",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 1",
+    "type": "UE CULTURE GÉNÉRALE"
+},
+{
+    "CODES": "DRS1201",
+    "UE": "Droit et société",
+    "ECU": "1DRS1201: Introduction au droit",
+    "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE CONNAISSANCES FONDAMENTALES "
+},
+{
+    "CODES": "DRS1201",
+    "UE": "Droit et société",
+    "ECU": "2DRS1201:Droit des sociétés",
+    "ENSEIGNANTS": "Dr Gildas NONNOU",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE CONNAISSANCES FONDAMENTALES "
+},
+{
+    "UE": "Philosophie et Education",
+    "ECU": "Principaux courants philosophiques",
+    "ENSEIGNANTS": "Dr Sr. Perpétue TIGRY",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE CONNAISSANCES FONDAMENTALES "
+},
+{
+    "UE": "Philosophie et Education",
+    "ECU": "Philosophie de l’éducation",
+    "ENSEIGNANTS": "Dr Sr. Perpétue TIGRY",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE CONNAISSANCES FONDAMENTALES "
+},
+{
+    "CODES": "SED1203",
+    "UE": "Socio-éducation",
+    "ECU": "Organisation du système éducatif",
+    "ENSEIGNANTS": "Dr Aimé HOUNZANDJI",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE SPECIALITE"
+},
+{
+    "CODES": "SED1203",
+    "ECU": "Relation éducative",
+    "ENSEIGNANTS": "Dr P. G. CHOGOLOU",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE SPECIALITE"
+},
+{
+    "CODES": "FMN1204",
+    "UE": " Pédagogie Familiale et mystère nuptial",
+    "ECU": "Pédagogie familiale et éducation aux valeurs",
+    "ENSEIGNANTS": "Dr Debora HOUNKPE",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE SPECIALITE"
+},
+{
+    "CODES": "FMN1204",
+    "UE": "Pédagogie Familiale et mystère nuptial",
+    "ECU": "Mystère nuptial",
+    "ENSEIGNANTS": "Dr P. Philippe KINKPON",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE SPECIALITE"
+},
+{
+    "CODES": "SES1205",
+    "UE": "Séminaire et Stage d’immersion professionnelle",
+    "ECU": "Séminaire Thématique1",
+    "ENSEIGNANTS": "Dr P Dominique AGBALEYON",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE METHODOLOGIE"
+},
+{
+    "CODES": "SES1205",
+    "UE": "Séminaire et Stage d’immersion professionnelle",
+    "ECU": "Stage d’immersion professionnelle",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE DE METHODOLOGIE"
+},
+{
+    "CODES": "ETH1206",
+    "UE": "Ethique",
+    "ECU": "Dynamisme de l’agir humain",
+    "ENSEIGNANTS": "Dr P. Magloire OKRY",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE CULTURE GENERALE"
+},
+{
+    "CODES": "ETH1206",
+    "UE": "Ethique",
+    "ECU": "Ethique sexuelle",
+    "ENSEIGNANTS": "Prof. Théophile AKOHA",
+    "classe": "LF1",
+    "semestre": "SEMESTRE 2",
+    "type": "UE CULTURE GENERALE"
+}
+    ,
+    {
+        "CODES": "PCP1501",
+        "classe": "LU3",
+        "UE": "Psychologie Clinique et Psychopathologie ",
+        "ECU": "Psychologie Clinique",
+        "ENSEIGNANTS": "Prof ZOUNON Ornellia",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PCP1501",
+        "classe": "LU3",
+        "UE": "Psychologie Clinique et Psychopathologie ",
+        "ECU": " Psychopathologie ",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PCO1502",
+        "classe": "LU3",
+        "UE": "Psychologie Cognitive",
+        "ECU": "Psychologie Cognitive ",
+        "ENSEIGNANTS": "Prof Magloire GANSOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PCO1502",
+        "classe": "LU3",
+        "UE": "Psychologie Cognitive",
+        "ECU": "Emotion et Environnement de la Communication",
+        "ENSEIGNANTS": "Dr P Hubert KEDOWIDE",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PAE1503",
+        "classe": "LU3",
+        "UE": "Psychologie des Agents Economiques",
+        "ECU": "Psychologie du consommateur",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PAE1503",
+        "classe": "LU3",
+        "UE": "Psychologie des Agents Economiques",
+        "ECU": "Psychologie du Travail et des Organisations",
+        "ENSEIGNANTS": "Dr Ferdinand BOTON",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "EEP1504",
+        "classe": "LU3",
+        "UE": "Ergonomie et évaluation psychologique",
+        "ECU": "Ergonomie : Approches et analyse de situations de travail",
+        "ENSEIGNANTS": "Dr Ferdinand BOTON",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "EEP1504",
+        "classe": "LU3",
+        "UE": "Ergonomie et évaluation psychologique",
+        "ECU": "Evaluation en Psychologie",
+        "ENSEIGNANTS": "Dr. P. Epiphane NAYETON",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1505",
+        "classe": "LU3",
+        "UE": "Démarche d’Intervention du Psychologue et Techniques d’Expérimentation",
+        "ECU": "Psychologie et Santé",
+        "ENSEIGNANTS": "Prof DJIDONOU Anselme",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1505",
+        "classe": "LU3",
+        "UE": "Démarche d’Intervention du Psychologue et Techniques d’Expérimentation",
+        "ECU": "Démarche d’Intervention du Psychologue et Techniques d’Expérimentation",
+        "ENSEIGNANTS": "Prof Rogatien SEGLA",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "DRA1506",
+        "classe": "LU3",
+        "UE": "Droit et Administration",
+        "ECU": "Droits de la personne humaine (TC)",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "semestre": "SEMESTRE 5",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "CODES": "DRA1506",
+        "classe": "LU3",
+        "UE": "Droit et Administration",
+        "ECU": "Rédaction Administrative (TC)",
+        "ENSEIGNANTS": "Dr Gildas NONOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "CODES": "PCP1501/1",
+        "classe": "LU3",
+        "UE": "Psychologie Clinique et Psychopathologie ",
+        "ECU": "Psychologie Clinique",
+        "ENSEIGNANTS": "Prof ZOUNON Ornellia",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PCP1501/1",
+        "classe": "LU3",
+        "UE": "Psychologie Clinique et Psychopathologie ",
+        "ECU": " Psychopathologie ",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SOE1501",
+        "classe": "LU3",
+        "UE": "Sociologie de l’Education",
+        "ECU": "Sociologie de l’Education",
+        "ENSEIGNANTS": "Dr. P. Jean DJESSOUKPO",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SOE1501",
+        "classe": "LU3",
+        "UE": "Sociologie de l’Education",
+        "ECU": "Prévention et Gestion de la Délinquance Juvénile",
+        "ENSEIGNANTS": "Prof Anselme DJIDONOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PGD1503",
+        "classe": "LU3",
+        "ECU": "Education en Milieu Défavorisé",
+        "ENSEIGNANTS": "Dr. P. Amé HOUNZANDJI",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "1504",
+        "classe": "LU3",
+        "UE": "1504",
+        "ECU": "Stratégies et Méthodes de Réinsertion Sociale",
+        "ENSEIGNANTS": "Dr P. Jean Marie BOTCHI",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1504",
+        "classe": "LU3",
+        "UE": "1504",
+        "ECU": "Elaboration de Politique d’Education",
+        "ENSEIGNANTS": "Dr P. G. CHOGOLOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "MEA1505 ",
+        "classe": "LU3",
+        "UE": "Méthode d’Enseignement : Analyse et Rôle de l’Enseignant",
+        "ECU": "Corps Humain entre Esthétique et Ethique",
+        "ENSEIGNANTS": "Prof. Théophile AKOHA",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "MEA1505",
+        "classe": "LU3",
+        "UE": "Méthode d’Enseignement : Analyse et Rôle de l’Enseignant",
+        "ECU": "Méthode d’Enseignement : Analyse et Rôle de l’Enseignant",
+        "ENSEIGNANTS": "Dr P. G. CHOGOLOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "DRA1506/6",
+        "classe": "LU3",
+        "UE": "Droit et Administration",
+        "ECU": "Droits de la personne humaine (TC)",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "semestre": "SEMESTRE 5",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "CODES": "DRA1506/6",
+        "classe": "LU3",
+        "UE": "Droit et Administration",
+        "ECU": "Rédaction Administrative (TC)",
+        "ENSEIGNANTS": "Dr Gildas NONOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "classe": "LU3",
+        "UE": "Stages et sorties pédagogiques",
+        "ECU": "Stage",
+        "semestre": "SEMESTRE 6",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "classe": "LU3",
+        "UE": "Stages et sorties pédagogiques",
+        "ECU": "Sortie Pédagogique",
+        "semestre": "SEMESTRE 6",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "classe": "LU3",
+        "UE": "Rédaction de mémoire et soutenance",
+        "ECU": "Rédaction",
+        "semestre": "SEMESTRE 6",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "classe": "LU3",
+        "UE": "Rédaction de mémoire et soutenance",
+        "ECU": "Soutenance",
+        "semestre": "SEMESTRE 6",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ANT1301",
+        "classe": "LUE",
+        "UE": "Anthropologie",
+        "ECU": "Anthropologie fondamentale",
+        "ENSEIGNANTS": "Dr. Charlotte ALE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "ANT1301",
+        "classe": "LUE",
+        "UE": "Anthropologie",
+        "ECU": "Anthropologie des valeurs humaines",
+        "ENSEIGNANTS": "Dr. Nadine SOSSOUHOUNTO",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "PEN1302",
+        "classe": "LUE",
+        "UE": "Psychologie et Neurosciences",
+        "ECU": "Psychologie du développement",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PEN1302",
+        "classe": "LUE",
+        "UE": "Psychologie et Neurosciences",
+        "ECU": "Psychophysiologie-neurosciences",
+        "ENSEIGNANTS": "Dr Gisèle TOUDONOU",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESO1303/3",
+        "classe": "LUE",
+        "UE": "Education et Société",
+        "ECU": "Sociologie de l’éducation",
+        "ENSEIGNANTS": "Dr. P. Jean DJESSOUKPO",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESO1303/3",
+        "classe": "LUE",
+        "UE": "Education et Société",
+        "ECU": "Education et Médias",
+        "ENSEIGNANTS": "Dr P. Hubert KEDOWIDE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SAF1302",
+        "classe": "LUE",
+        "UE": "Socio-Anthropologie de la Famille",
+        "ECU": "Sociologie des conflits",
+        "ENSEIGNANTS": "Dr P. J. M. BOTCHI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SAF1302",
+        "classe": "LUE",
+        "UE": "Socio-Anthropologie de la Famille",
+        "ECU": "Socio-Anthropologie Africaine",
+        "ENSEIGNANTS": "Dr. Timothé TOGBE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "CEO1304",
+        "classe": "LUE",
+        "UE": "Management Social",
+        "ECU": "Management des services",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "CEO1304",
+        "classe": "LUE",
+        "UE": "Management Social",
+        "ECU": "Management et politique communautaire",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "ETA1304",
+        "classe": "LUE",
+        "UE": "Ethique appliquée",
+        "ECU": "Ethique et santé de la reproduction",
+        "ENSEIGNANTS": "Sr Jérémie DOVONOU",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "ETA1304",
+        "classe": "LUE",
+        "UE": "Ethique appliquée",
+        "ECU": "Bioéthique et défis de l’Afrique",
+        "ENSEIGNANTS": "Dr P. Magloire OKRY/ P. Charles AZANTSI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "classe": "LUE",
+        "UE": "Droit Fondamentaux de la Personne Humaine",
+        "ECU": "Droit fondamentaux de la personne humaine",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "APD1402/2",
+        "classe": "LUE",
+        "UE": "Approche Psychosociale et développement",
+        "ECU": "Approche Psychosociale du changement d’attitude et de comportement",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "APD1402/2",
+        "classe": "LUE",
+        "UE": "Approche Psychosociale et développement",
+        "ECU": "Psychologie du Développement Humain",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PDD1403/3",
+        "classe": "LUE",
+        "UE": "Philosophie du Droit",
+        "ECU": "Philosophie du Droit Matrimonial",
+        "ENSEIGNANTS": "Dr Sr. Perpétue TIGRY",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PDD1403/3",
+        "classe": "LUE",
+        "UE": "Philosophie du Droit",
+        "ECU": "Droit Coutumier et Civil du Mariage",
+        "ENSEIGNANTS": "Dr Sr Laure Edwidge",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESH1404/4",
+        "classe": "LUE",
+        "UE": "Enquête en Sciences Humaines et Sociales",
+        "ECU": "Enquête en Sciences Humaines et Sociales",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "ESH1404/4",
+        "classe": "LUE",
+        "UE": "Enquête en Sciences Humaines et Sociales",
+        "ECU": "Observation en Sciences Humaines et Sociales",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1405/05",
+        "classe": "LUE",
+        "UE": "Séminaire et Stage",
+        "ECU": "Séminaire Thématique II",
+        "ENSEIGNANTS": "Dr P Dominique AGBALENYO",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1405/05",
+        "classe": "LUE",
+        "UE": "Séminaire et Stage",
+        "ECU": "Stage d’Approfondissement",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "REE1406/6",
+        "classe": "LUE",
+        "UE": "Ressources et Entreprenariat",
+        "ECU": "Entreprenariat et Gestion des Projets",
+        "ENSEIGNANTS": "M. Faustin DJAGBA",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "CODES": "REE1406/6",
+        "classe": "LUE",
+        "UE": "Ressources et Entreprenariat",
+        "ECU": "Gestion des Ressources Humaines",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LU2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "CODES": "TIC 1101",
+        "classe": "LU1",
+        "UE": "Technologie de l’Information et de la Communication",
+        "ECU": "Initiation à l’informatique",
+        "ENSEIGNANTS": "Dr Boris DJIMADJA SAV",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "TIC 1101",
+        "classe": "LU1",
+        "UE": "Technologie de l’Information et de la Communication",
+        "ECU": "Bureautique et internet",
+        "ENSEIGNANTS": "Dr Boris DJIMADJA SAV",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "FSO1102",
+        "classe": "LU1",
+        "UE": "Fondamentaux en Sociologie",
+        "ECU": "Sociologie générale",
+        "ENSEIGNANTS": "Dr. Nadine SOSSOUHOUNTO",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "FSO1102",
+        "classe": "LU1",
+        "UE": "Fondamentaux en Sociologie",
+        "ECU": "Sociologie de la famille",
+        "ENSEIGNANTS": "Dr Charlotte ALE",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "FPS1103",
+        "classe": "LU1",
+        "UE": "Fondamentaux en Psychologie",
+        "ECU": "Psychologie générale et cognitive",
+        "ENSEIGNANTS": "Prof Magloire GANSOU",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "FPS1103",
+        "classe": "LU1",
+        "UE": "Fondamentaux en Psychologie",
+        "ECU": "Psychologie sociale",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "EEC1104",
+        "classe": "LU1",
+        "UE": "Expression Ecrite   et Créativité (EEC)",
+        "ECU": "Expression Ecrite et Orale (EEO)",
+        "ENSEIGNANTS": "Prof Julien GBAGUIDI",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "EEC1104",
+        "classe": "LU1",
+        "UE": "Expression Ecrite   et Créativité (EEC)",
+        "ECU": "Créativité",
+        "ENSEIGNANTS": "Dr Roger ANOUMOU",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "MES1105",
+        "classe": "LU1",
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Statistiques – Mesurage I",
+        "ENSEIGNANTS": "Dr AZIZOU",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "MES1105",
+        "classe": "LU1",
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Les Méthodologies de travail universitaire",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "LAV1106",
+        "classe": "LU1",
+        "UE": "Langues Vivantes",
+        "ECU": "Anglais",
+        "ENSEIGNANTS": "Dr Jérémie DOVONOU",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE "
+    },
+    {
+        "CODES": "LAV1106",
+        "classe": "LU1",
+        "UE": "Langues Vivantes",
+        "ECU": "Italien",
+        "ENSEIGNANTS": "Sr Agnese GIOVANAZZI",
+        "LU1": "x",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE "
+    },
+    {
+        "CODES": "DRS1201",
+        "classe": "LU1",
+        "UE": "Droit et société",
+        "ECU": "1DRS1201: Introduction au droit",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "LU1": "x",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "DRS1201",
+        "classe": "LU1",
+        "UE": "Droit et société",
+        "ECU": "2DRS1201:Droit des sociétés",
+        "ENSEIGNANTS": "Dr Gildas NONNOU",
+        "LU1": "x",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "classe": "LU1",
+        "UE": "Philosophie",
+        "ECU": "Principaux courants philosophiques",
+        "ENSEIGNANTS": "Dr Sr. Perpétue TIGRY",
+        "LU1": "x",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "classe": "LU1",
+        "UE": "Philosophie",
+        "ECU": "Philosophie de l’éducation",
+        "ENSEIGNANTS": "Dr Sr. Perpétue TIGRY",
+        "LU1": "x",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "FMN1204",
+        "classe": "LU1",
+        "UE": "Pédagogie Familiale et mystère nuptial",
+        "ECU": "Pédagogie familiale et éducation aux valeurs",
+        "ENSEIGNANTS": "Dr Debora HOUNKPE",
+        "LU1": "x",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "FMN1204",
+        "classe": "LU1",
+        "UE": "Pédagogie Familiale et mystère nuptial",
+        "ECU": "Mystère nuptial",
+        "ENSEIGNANTS": "Dr P. Philippe KINKPON",
+        "LU1": "x",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SES1205",
+        "classe": "LU1",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "ECU": "Séminaire Thématique1",
+        "ENSEIGNANTS": "Dr P Dominique AGBALENYO",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1205",
+        "classe": "LU1",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "ECU": "Stage d’immersion professionnelle",
+        "LU1": "x",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "ETH1206",
+        "classe": "LU1",
+        "UE": "Ethique",
+        "ECU": "Dynamisme de l’agir humain",
+        "ENSEIGNANTS": "Dr P. Magloire OKRY",
+        "LU1": "x",
+        "semestre": "SEMESTRE 2",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "ETH1206",
+        "classe": "LU1",
+        "UE": "Ethique",
+        "ECU": "Ethique sexuelle",
+        "ENSEIGNANTS": "Prof. Théophile AKOHA",
+        "LU1": "x",
+        "semestre": "SEMESTRE 2",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "PED1301",
+        "classe": "LF2",
+        "UE": "Pédagogie",
+        "ECU": "Didactique générale",
+        "ENSEIGNANTS": "Dr Debora HOUNKPE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "PED1301",
+        "classe": "LF2",
+        "UE": "Pédagogie",
+        "ECU": "Eléments d’Andragogie",
+        "ENSEIGNANTS": "Dr. P. Jean DJESSOUKPO",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "CODES": "PEN1302",
+        "classe": "LF2",
+        "UE": "Psychologie et Neurosciences",
+        "ECU": "Psychologie du développement",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PEN1302",
+        "classe": "LF2",
+        "UE": "Psychologie et Neurosciences",
+        "ECU": "Psychophysiologie-neurosciences",
+        "ENSEIGNANTS": "Dr Gisèle TOUDONOU",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESO1303/3",
+        "classe": "LF2",
+        "UE": "Education et Société",
+        "ECU": "Sociologie de l’éducation",
+        "ENSEIGNANTS": "Dr. P. Jean DJESSOUKPO",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "ESO1303/3",
+        "classe": "LF2",
+        "UE": "Education et Société",
+        "ECU": "Education et Médias",
+        "ENSEIGNANTS": "Dr P. Hubert KEDOWIDE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "MES1305/5",
+        "classe": "LF2",
+        "UE": "Législation et approche éducative",
+        "ECU": "Législation et Organisation Scolaire",
+        "ENSEIGNANTS": "Dr Débora",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "MES1305/5",
+        "classe": "LF2",
+        "UE": "Législation et approche éducative",
+        "ECU": "Approche Educative de la Lecture",
+        "ENSEIGNANTS": "Dr. CHOGOLOU",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1306",
+        "classe": "LF2",
+        "UE": " Motivation  et Evaluation",
+        "ECU": "Evaluation des Apprentissages",
+        "ENSEIGNANTS": "Dr P NAYETON",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1306",
+        "classe": "LF2",
+        "UE": " Motivation  et Evaluation",
+        "ECU": "La motivation en contexte scolaire",
+        "ENSEIGNANTS": "Dr. CHOGOLOU",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "CEO1304",
+        "classe": "LF2",
+        "UE": "Management Social",
+        "ECU": "Management des services",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "CEO1304",
+        "classe": "LF2",
+        "UE": "Management Social",
+        "ECU": "Management et politique communautaire",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "ETA1304",
+        "classe": "LF2",
+        "UE": "Ethique appliquée",
+        "ECU": "Ethique et santé de la reproduction",
+        "ENSEIGNANTS": "Dr Gisèle TOUDONOU",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "CODES": "ETA1304",
+        "classe": "LF2",
+        "UE": "Ethique appliquée",
+        "ECU": "Bioéthique et défis de l’Afrique",
+        "ENSEIGNANTS": "Dr P. Magloire OKRY/ P. Charles AZANTSI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "classe": "LF2",
+        "UE": "Droit Fondamentaux de la Personne Humaine",
+        "ECU": "Droit fondamentaux de la personne humaine",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4"
+    },
+    {
+        "CODES": "APD1402/2",
+        "classe": "LF2",
+        "UE": "Approche Psychosociale et développement",
+        "ECU": "Approche Psychosociale du changement d’attitude et de comportement",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4"
+    },
+    {
+        "CODES": "APD1402/2",
+        "classe": "LF2",
+        "UE": "Approche Psychosociale et développement",
+        "ECU": "Psychologie du Développement Humain",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4"
+    },
+    {
+        "CODES": "APM5114",
+        "classe": "LF2",
+        "UE": "Anatomie et Physiologie Mentale",
+        "ECU": "Anatomie et Physiologie Mentale",
+        "ENSEIGNANTS": "Dr Gisèle TOUDONOU",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4"
+    },
+    {
+        "CODES": "ESH1404/4",
+        "classe": "LF2",
+        "UE": "Enquête en Sciences Humaines et Sociales",
+        "ECU": "Enquête en Sciences Humaines et Sociales",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "ESH1404/4",
+        "classe": "LF2",
+        "UE": "Enquête en Sciences Humaines et Sociales",
+        "ECU": "Observation en Sciences Humaines et Sociales",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1405/05",
+        "classe": "LF2",
+        "UE": "Séminaire et Stage",
+        "ECU": "Séminaire Thématique II",
+        "ENSEIGNANTS": "Dr P Dominique AGBALEYON",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1405/05",
+        "classe": "LF2",
+        "UE": "Séminaire et Stage",
+        "ECU": "Stage d’Approfondissement",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "REE1406/6",
+        "classe": "LF2",
+        "UE": "Ressources et Entreprenariat",
+        "ECU": "Entreprenariat et Gestion des Projets",
+        "ENSEIGNANTS": "M. Faustin DJAGBA",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "CODES": "REE1406/6",
+        "classe": "LF2",
+        "UE": "Ressources et Entreprenariat",
+        "ECU": "Gestion des Ressources Humaines",
+        "ENSEIGNANTS": "Dr P. Adelph ADAMBADJI",
+        "LF2": "x",
+        "semestre": "SEMESTRE 4",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "CODES": "PCP1501",
+        "UE": "Psychologie Clinique et Psychopathologie ",
+        "ECU": "Psychologie Clinique",
+        "ENSEIGNANTS": "Prof ZOUNON Ornellia",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "ECU": " Psychopathologie ",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PCO1502",
+        "UE": "Psychologie Cognitive",
+        "ECU": "Psychologie Cognitive ",
+        "ENSEIGNANTS": "Prof Magloire GANSOU",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "ECU": "Prévention et Gestion de la Délinquance Juvénile",
+        "ENSEIGNANTS": "Prof Anselme DJIDONOU",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SOE1501",
+        "UE": "Sociologie de l’Education",
+        "ECU": "Sociologie de l’Education",
+        "ENSEIGNANTS": "Dr. P. Jean DJESSOUKPO",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PGD1503",
+        "ECU": "Education en Milieu Défavorisé",
+        "ENSEIGNANTS": "Dr. P. Amé HOUNZANDJI",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "ECU": "Evaluation en Psychologie",
+        "ENSEIGNANTS": "Dr. P. Epiphane NAYETON",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "UE": "Ethique et réinsertion",
+        "ECU": "Stratégies et Méthodes de Réinsertion Sociale",
+        "ENSEIGNANTS": "Dr P. Jean Marie BOTCHI",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "ECU": "Corps Humain entre Esthétique et Ethique",
+        "ENSEIGNANTS": "Prof. Théophile AKOHA",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "UE": "Politique d'éducation et enseignement",
+        "ECU": "Elaboration de Politique d’Education",
+        "ENSEIGNANTS": "Dr P. G. CHOGOLOU",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "ECU": "Méthode d’Enseignement : Analyse et Rôle de l’Enseignant",
+        "ENSEIGNANTS": "Dr P. G. CHOGOLOU",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "DRA1506/6",
+        "UE": "Droit et Administration",
+        "ECU": "Droits de la personne humaine (TC)",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "ECU": "Rédaction Administrative (TC)",
+        "ENSEIGNANTS": "Dr Gildas NONOU",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "classe": "LF3"
+    },
+    {
+        "UE": "Stages et sorties pédagogiques",
+        "ECU": "Stage",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "ECU": "Sortie Pédagogique",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Rédaction de mémoire et soutenance",
+        "ECU": "Rédaction",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "ECU": "Soutenance",
+        "classe": "LF3",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Ethique et Anthropologie de l'éducation",
+        "ECU": "Ethique en Education : enjeux et problèmes",
+        "ENSEIGNANTS": "Dr. P. AKOHA",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Ethique et Anthropologie de l'éducation",
+        "ECU": "Anthropologie de l’Education et de la Communication",
+        "ENSEIGNANTS": "Prof OUASSA KOARO",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Dynamique des Groupes et technique de l'information",
+        "ECU": "Dynamique des Groupes",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Dynamique des Groupes et technique de l'information",
+        "ECU": "Technologies de l’Information et de la Communication pour l’Education",
+        "ENSEIGNANTS": "Dr. P. Hubert KEDOWIDE",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Ecritures et Bioethique ",
+        "ECU": "Mariage et famille à la lumière de l'Ancien Testament",
+        "ENSEIGNANTS": "Dr P SOBAKIN",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Ecritures et Bioethique ",
+        "ECU": "Bioethique",
+        "ENSEIGNANTS": "Dr P OKRY",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Affects et Ethique de l'action",
+        "ECU": "La foi et la justice des affects. Théologie fondamentale de la forme chrétienne",
+        "ENSEIGNANTS": "Dr P OUINSOU",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Affects et Ethique de l'action",
+        "ECU": "Ethique de l'action",
+        "ENSEIGNANTS": "Dr P OKRY",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "CODES": "MES1105",
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Statistiques – Mesurage I",
+        "ENSEIGNANTS": "Dr AZIZOU",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "MES1105",
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Les Méthodologies de travail universitaire",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "UE": "Anthropologie et Communio personarum",
+        "ECU": "Le mariage : anticipation anthropologique et réalisation sacramentaire ",
+        "ENSEIGNANTS": "Dr P Dominique AGBALEYON",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE "
+    },
+    {
+        "UE": "Anthropologie et Communio personarum",
+        "ECU": "La communio personarum et la mission ecclésiale ",
+        "ENSEIGNANTS": "Dr Dominique AGBALEYON",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE "
+    },
+    {
+        "UE": "Spititualité familiale et problème sociolinguistique",
+        "ECU": "Spiritualité familiale et transmission de la foi",
+        "ENSEIGNANTS": "Dr P MIYIGBENA",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Spititualité familiale et problème sociolinguistique",
+        "ECU": "Problèmes socio linguistiques en Education",
+        "ENSEIGNANTS": "Prof GBAGUIDI",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Droit canonique et Philosophie  de l'amour",
+        "ECU": "Droit canonique matrimonial",
+        "ENSEIGNANTS": "Dr P AGOSSOU",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Droit canonique et Philosophie  de l'amour",
+        "ECU": "Philosophie de l’amour",
+        "ENSEIGNANTS": "Dr P OKRY",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Droit canonique et Philosophie  de l'amour",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Psychologie sociale et Théologie du sacrement",
+        "ECU": "Psychologie Sociale",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Psychologie sociale et Théologie du sacrement",
+        "ECU": "Théologie pastorale du mariage et de la famille ",
+        "ENSEIGNANTS": "Dr P. AKOHA",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Analyse de la différence sexuelle et La morale sexuelle",
+        "ECU": "Analyse théologique de la différence sexuelle : développement historique et perspectives systématiques",
+        "ENSEIGNANTS": "Dr P SENE MAKODOU",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Analyse de la différence sexuelle et La morale sexuelle",
+        "ECU": "La morale sexuelle et conjugale poste-tridentine (XVI-XVIII Siècles) Analyse critique d'un modèle au regard des instances contemporaines",
+        "ENSEIGNANTS": "Dr P AKOHA",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SES1205",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "ECU": "Séminaire Thématique1: Thèmes choisis d'ecclésiologie familiale",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1205",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "UE": "Anthropologie des rapports et Gestion des conflits ",
+        "ECU": "Anthropologie des rapport familiaux",
+        "ENSEIGNANTS": "Prof BABADJIDE Charles",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "UE": "Anthropologie des rapports et Gestion des conflits ",
+        "ECU": "Gestion des conflits",
+        "ENSEIGNANTS": "Dr BOGNON Clétus",
+        "classe": "LC1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "UE": "Ethique et Anthropologie de l'éducation",
+        "ECU": "Ethique en Education : enjeux et problèmes",
+        "ENSEIGNANTS": "Dr. P. AKOHA",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Ethique et Anthropologie de l'éducation",
+        "ECU": "Anthropologie de l’Education et de la Communication",
+        "ENSEIGNANTS": "Prof OUASSA KOARO",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Dynamique des Groupes et technique de l'information",
+        "ECU": "Dynamique des Groupes",
+        "ENSEIGNANTS": "Dr Antonella Antonella CRISANTE",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Dynamique des Groupes et technique de l'information",
+        "ECU": "Technologies de l’Information et de la Communication pour l’Education",
+        "ENSEIGNANTS": "Dr. P. Hubert KEDOWIDE",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Bioethique et Psychopathologie",
+        "ECU": "Bioethique",
+        "ENSEIGNANTS": "Dr P OKRY",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Bioethique et Psychopathologie",
+        "ECU": "Psychopathologie",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Difficulté scolaire et leadership",
+        "ECU": "Accompagnement à la Difficulté Scolaire",
+        "ENSEIGNANTS": "Dr. P. Aimé HOUNZZANDJI",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Difficulté scolaire et leadership",
+        "ECU": "Leadership axé sur la réussite en Education",
+        "ENSEIGNANTS": "Prof BABADJIDE Charles",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "MES1105",
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Statistiques – Mesurage I",
+        "ENSEIGNANTS": "Dr AZIZOU",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE "
+    },
+    {
+        "CODES": "MES1105",
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Les Méthodologies de travail universitaire",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE "
+    },
+    {
+        "UE": "Anglais et Droit du travail",
+        "ECU": "Anglais",
+        "ENSEIGNANTS": "Dr DOVONOU Jérémie",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "UE": "Anglais et Droit du travail",
+        "ECU": "Droit du Travail",
+        "ENSEIGNANTS": "Dr NONNOU Gildas",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE"
+    },
+    {
+        "UE": "Ergonomie et problème sociolinguistique",
+        "ECU": "Ergonomie et Activité de Conception",
+        "ENSEIGNANTS": "Dr BOTON Ferdinand",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Ergonomie et problème sociolinguistique",
+        "ECU": "Problèmes socio linguistiques en Education",
+        "ENSEIGNANTS": "Prof GBAGUIDI",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Ethique et reproduction et Philosophie de l'amour",
+        "ECU": "Ethique et Santé de la Reproduction",
+        "ENSEIGNANTS": "Sr Jérémie DOVONOU",
+        "classe": "MFA1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Ethique et reproduction et Philosophie de l'amour",
+        "ECU": "Philosophie de l’amour",
+        "ENSEIGNANTS": "Dr P OKRY",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Psychologie sociale et du travail",
+        "ECU": "Psychologie Sociale",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Psychologie sociale et du travail",
+        "ECU": "Psychologie du Travail et des Organisations",
+        "ENSEIGNANTS": "Dr BOTON Ferdinand",
+        "classe": "MFA1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Ethnographie et démographie sociale",
+        "ECU": "Ethnographie de l’Ecole",
+        "ENSEIGNANTS": "Dr GUERA CHABI ",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Ethnographie et démographie sociale",
+        "ECU": "Démographie Sociale",
+        "ENSEIGNANTS": "Prof. BABADJIDE Charles",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "CODES": "SES1205",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "ECU": "Séminaire Thématique1",
+        "classe": "MFA1",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "SES1205",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "ECU": "Stage d’immersion professionnelle",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "UE": "Structure organisationnelle et gestion des conflits",
+        "ECU": "Structures Organisationnelles en Administration Scolaire et Gestion axée sur les résultats",
+        "ENSEIGNANTS": "Dr HOUNKPE Débora",
+        "classe": "MFA1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "UE": "Structure organisationnelle et gestion des conflits",
+        "ECU": "Gestion des conflits",
+        "ENSEIGNANTS": "Dr BOGNON Clétus",
+        "classe": "MFA1",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "UE": "Différenciation sociale et Psychologie sociale",
+        "ECU": "Différenciation sociale et fonction de la famille",
+        "ENSEIGNANTS": "Dr P. OUINSOU",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Différenciation sociale et Psychologie sociale",
+        "ECU": "Psychologie Sociale",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Conseil conjugal et Humanisme intégral",
+        "ECU": "Conseil Conjugal et Familial",
+        "ENSEIGNANTS": "Dr P KINKPON",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Conseil conjugal et Humanisme intégral",
+        "ECU": "Humanisme intégral",
+        "ENSEIGNANTS": "Dr Colbert GOUDJINOU",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Psychopathologie de l'enfant et Médiation familiale",
+        "ECU": "Psychologie et Psychopathologie de l’Enfant et de l’Adolescent",
+        "ENSEIGNANTS": "Prof DJIDONOU Anselme",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES "
+    },
+    {
+        "UE": "Ecritures et Théologie du Sacrement",
+        "ECU": "Mariage et famille à la lumière de l'Ancien Testament",
+        "ENSEIGNANTS": "Dr P SOBAKIN",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Ecritures et Théologie du Sacrement",
+        "ECU": "Théologie du sacrement du mariage",
+        "ENSEIGNANTS": "Dr P. KINKPON ",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Sociologie de la famille et Institutions familiales",
+        "ECU": "Sociologie de la famille",
+        "ENSEIGNANTS": "Dr ALE Charlotte",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Sociologie de la famille et Institutions familiales",
+        "ECU": "Institutions familiales, pratiques sociales et vie commune",
+        "ENSEIGNANTS": "Dr P BOCHI",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Psychologie clinique du couple et Psychopathologie des liens",
+        "ECU": "Psychopathologie des liens familiaux",
+        "ENSEIGNANTS": "Prof DJIDONOU Anselme",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Psychologie clinique du couple et Psychopathologie des liens",
+        "ECU": "Psychologie Clinique du Couple et de la Famille",
+        "ENSEIGNANTS": "Prof DJIDONOU Anselme",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE "
+    },
+    {
+        "UE": "Droit de la famille et Théologie pastorale",
+        "ECU": "Droit de la Famille",
+        "ENSEIGNANTS": "Dr ANANI Isabelle",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GENERALE "
+    },
+    {
+        "ECU": "Théologie pastorale du mariage et de la famille",
+        "ENSEIGNANTS": "Dr P AKOHA",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GENERALE "
+    },
+    {
+        "ECU": "STAGE ET SOUTENANCE",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 2"
+    },
+    {
+        "ECU": "SOUTENANCE",
+        "classe": "MFA2",
+        "semestre": "SEMESTRE 2"
+    },
+    {
+        "UE": "Différenciation sociale et Psychologie sociale",
+        "ECU": "Différenciation sociale et fonction de la famille",
+        "ENSEIGNANTS": "Dr P. OUINSOU",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Différenciation sociale et Psychologie sociale",
+        "ECU": "Psychologie Sociale",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Conseil conjugal et Humanisme intégral",
+        "ECU": "Conseil Conjugal et Familial",
+        "ENSEIGNANTS": "Dr P KINKPON",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Conseil conjugal et Humanisme intégral",
+        "ECU": "Humanisme intégral",
+        "ENSEIGNANTS": "Dr Colbert GOUDJINOU",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Psychopathologie de l'enfant et Médiation familiale",
+        "ECU": "Psychologie et Psychopathologie de l’Enfant et de l’Adolescent",
+        "ENSEIGNANTS": "Prof DJIDONOU Anselme",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Psychopathologie de l'enfant et Médiation familiale",
+        "ECU": "Médiation Familiale : Aspects Psychologiques et Psychosociaux",
+        "ENSEIGNANTS": "Prof DJIDONOU Anselme",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES"
+    },
+    {
+        "UE": "Ecritures et Théologie du Sacrement",
+        "ECU": "Mariage et famille à la lumière de l'Ancien Testament",
+        "ENSEIGNANTS": "Dr P SOBAKIN",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Ecritures et Théologie du Sacrement",
+        "ECU": "Théologie du sacrement du mariage",
+        "ENSEIGNANTS": "Dr P. KINKPON ",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Sociologie de la famille et Institutions familiales",
+        "ECU": "Sociologie de la famille",
+        "ENSEIGNANTS": "Dr ALE Charlotte",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Sociologie de la famille et Institutions familiales",
+        "ECU": "Institutions familiales, pratiques sociales et vie commune",
+        "ENSEIGNANTS": "Dr P BOCHI",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Psychologie clinique du couple et Psychopathologie des liens",
+        "ECU": "Psychopathologie des liens familiaux",
+        "ENSEIGNANTS": "Prof DJIDONOU Anselme",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Psychologie clinique du couple et Psychopathologie des liens",
+        "ECU": "Psychologie Clinique du Couple et de la Famille",
+        "ENSEIGNANTS": "Prof DJIDONOU Anselme",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Droit de la famille et Théologie pastorale",
+        "ECU": "Droit de la Famille",
+        "ENSEIGNANTS": "Dr ANANI Isabelle",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "UE": "Droit de la famille et Théologie pastorale",
+        "ECU": "Théologie pastorale du mariage et de la famille",
+        "ENSEIGNANTS": "Dr P AKOHA",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 1",
+        "type": "UE CULTURE GENERALE"
+    },
+    {
+        "ECU": "STAGE ET SOUTENANCE",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE 2"
+    },
+    {
+        "ECU": "SOUTENANCE",
+        "classe": "LC2",
+        "semestre ": "SEMESTRE2"
+    },
+    {
+        "UE": "Ethique et Anthropologie de l'éducation",
+        "ECU": "Ethique en Education : enjeux et problèmes",
+        "ENSEIGNANTS": "Dr. P. AKOHA",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES ",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Ethique et Anthropologie de l'éducation",
+        "ECU": "Anthropologie de l’Education et de la Communication",
+        "ENSEIGNANTS": "Prof OUASSA KOARO",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES ",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Dynamique des Groupes et technique de l'information",
+        "ECU": "Dynamique des Groupes",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES ",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Dynamique des Groupes et technique de l'information",
+        "ECU": "Technologies de l’Information et de la Communication pour l’Education",
+        "ENSEIGNANTS": "Dr. P. Hubert KEDOWIDE",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES ",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Bioethique et Psychopathologie",
+        "ECU": "Bioethique",
+        "ENSEIGNANTS": "Dr P OKRY",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Bioethique et Psychopathologie",
+        "ECU": "Psychopathologie",
+        "ENSEIGNANTS": "Antonella CRISANTE",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Difficulté scolaire et leadership",
+        "ECU": "Accompagnement à la Difficulté Scolaire",
+        "ENSEIGNANTS": "Dr. P. Aimé HOUNZZANDJI",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Difficulté scolaire et leadership",
+        "ECU": "Leadership axé sur la réussite en Education",
+        "ENSEIGNANTS": "Prof BABADJIDE Charles",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSE1"
+    },
+    {
+        "CODES": "MES1105",
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Statistiques – Mesurage I",
+        "ENSEIGNANTS": "Dr AZIZOU",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE ",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Les Méthodologies de travail universitaire",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE ",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Anglais et Droit du travail",
+        "ECU": "Anglais",
+        "ENSEIGNANTS": "Dr DOVONOU Jérémie",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE ",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Anglais et Droit du travail",
+        "ECU": "Droit du Travail",
+        "ENSEIGNANTS": "Dr NONNOU Gildas",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE ",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "blème sociolinguistique",
+        "ECU": "Ergonomie et Activité de Conception",
+        "ENSEIGNANTS": "Dr BOTON Ferdinand",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "blème sociolinguistique",
+        "ECU": "Problèmes socio linguistiques en Education",
+        "ENSEIGNANTS": "Prof GBAGUIDI",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Ethique et reproduction et Philosophie de l'amour",
+        "ECU": "Ethique et Santé de la Reproduction",
+        "ENSEIGNANTS": "Sr Jérémie DOVONOU",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Ethique et reproduction et Philosophie de l'amour",
+        "ECU": "Philosophie de l’amour",
+        "ENSEIGNANTS": "Dr P OKRY",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Psychologie sociale et du travail",
+        "ECU": "Psychologie Sociale",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Psychologie sociale et du travail",
+        "ECU": "Psychologie du Travail et des Organisations",
+        "ENSEIGNANTS": "Dr BOTON Ferdinand",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Ethnographie et démographie sociale",
+        "ECU": "Ethnographie de l’Ecole",
+        "ENSEIGNANTS": "Dr GUERA CHABI ",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSE1"
+    },
+    {
+        "ECU": "Démographie Sociale",
+        "ENSEIGNANTS": "Prof. BABADJIDE Charles",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSE1"
+    },
+    {
+        "CODES": "SES1205",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "ECU": "Séminaire Thématique1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE METHODOLOGIE",
+        "classe": "MPSE1"
+    },
+    {
+        "CODES": "SES1205",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "ECU": "Stage d’immersion professionnelle",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE METHODOLOGIE",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Structure organisationnelle et gestion des conflits",
+        "ECU": "Structures Organisationnelles en Administration Scolaire et Gestion axée sur les résultats",
+        "ENSEIGNANTS": "Dr HOUNKPE Débora",
+        "semestre": "SEMESTRE 2",
+        "type": "UE CULTURE GENERALE",
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Structure organisationnelle et gestion des conflits",
+        "ECU": "Gestion des conflits",
+        "ENSEIGNANTS": "Dr BOGNON Clétus",
+        "semestre": "SEMESTRE 2",
+        "type": "UE CULTURE GENERALE",
+        "classe": "MPSE1"
+    },
+    {
+        "classe": "MPSE1"
+    },
+    {
+        "UE": "Psychologie et Psychopathologie",
+        "ECU": "Psychologie des Emotions",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSE2"
+    },
+    {
+        "UE": "Psychologie et Psychopathologie",
+        "ECU": "Psychopathologie",
+        "ENSEIGNANTS": "Dr ZOUNON Ornellia",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSE2"
+    },
+    {
+        "UE": "Psychopédagogie et Psychologie cognitive",
+        "ECU": "Bases Psychopédagogiques des Technologies Educatives",
+        "ENSEIGNANTS": "Dr HOUNKPE Débora",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSE2"
+    },
+    {
+        "UE": "Psychopédagogie et Psychologie cognitive",
+        "ECU": "Psychologie Cognitive II",
+        "ENSEIGNANTS": "Prof GANSOU",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSE2"
+    },
+    {
+        "UE": "Psychologie de l'apprentissage et l'entretien clinique",
+        "ECU": "Psychologie de l’Apprentissage Scolaire",
+        "ENSEIGNANTS": "Dr TCHANSI TCHANSI",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSE2"
+    },
+    {
+        "ECU": "L’Entretien Clinique",
+        "ENSEIGNANTS": "Dr ZOUNON Ornellia",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSE2"
+    },
+    {
+        "UE": "Politique éducative et gestion du changement",
+        "ECU": "Analyse des Politiques Educatives",
+        "ENSEIGNANTS": "Dr P CHOGOLOU",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSE2"
+    },
+    {
+        "UE": "Politique éducative et gestion du changement",
+        "ECU": "Gestion du Changement en Education et Résolution de Problèmes Complexes",
+        "ENSEIGNANTS": "Dr HOUNKPE Débora",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSE2"
+    },
+    {
+        "UE": "Epistémologie et paradigme interculturel",
+        "ECU": "Epistémologie de la Recherche en Education",
+        "ENSEIGNANTS": "Dr. BISSIRIOU Mohamed",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE",
+        "classe": "MPSE2"
+    },
+    {
+        "UE": "Epistémologie et paradigme interculturel",
+        "ECU": "Paradigme Interculturel",
+        "ENSEIGNANTS": "Prof GBAGUIDI",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE",
+        "classe": "MPSE2"
+    },
+    {
+        "UE": "Ethique et Anthropologie de l'éducation",
+        "ECU": "Ethique en Education : enjeux et problèmes",
+        "ENSEIGNANTS": "Dr. P. AKOHA",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Ethique et Anthropologie de l'éducation",
+        "ECU": "Anthropologie de l’Education et de la Communication",
+        "ENSEIGNANTS": "Prof OUASSA KOARO",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Dynamique des Groupes et technique de l'information",
+        "ECU": "Dynamique des Groupes",
+        "ENSEIGNANTS": "Antonella CRISANTE",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Dynamique des Groupes et technique de l'information",
+        "ECU": "Technologies de l’Information et de la Communication pour l’Education",
+        "ENSEIGNANTS": "Dr. P. Hubert KEDOWIDE",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Bioethique et Psychopathologie",
+        "ECU": "Bioethique",
+        "ENSEIGNANTS": "Dr P OKRY",
+        "semestre": "SEMESTRE 1",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Bioethique et Psychopathologie",
+        "ECU": "Psychopathologie",
+        "ENSEIGNANTS": "Antonella CRISANTE",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Difficulté scolaire et leadership",
+        "ECU": "Accompagnement à la Difficulté Scolaire",
+        "ENSEIGNANTS": "Dr. P. Aimé HOUNZZANDJI",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Difficulté scolaire et leadership",
+        "ECU": "Leadership axé sur la réussite en Education",
+        "ENSEIGNANTS": "Prof BABADJIDE Charles",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY1"
+    },
+    {
+        "CODES": "MES1105",
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Statistiques – Mesurage I",
+        "ENSEIGNANTS": "Dr AZIZOU",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE",
+        "classe": "MPSY1"
+    },
+    {
+        "CODES": "MES1105",
+        "UE": "Méthodologie et Statistiques",
+        "ECU": "Les Méthodologies de travail universitaire",
+        "ENSEIGNANTS": "Prof Charles BABADJIDE",
+        "semestre": "SEMESTRE 1",
+        "type": "UE DE METHODOLOGIE",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Anglais et Droit du travail",
+        "ECU": "Anglais",
+        "ENSEIGNANTS": "Dr DOVONOU Jérémie",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Anglais et Droit du travail",
+        "ECU": "Droit du Travail",
+        "ENSEIGNANTS": "Dr NONNOU Gildas",
+        "semestre": "SEMESTRE 1",
+        "type": "UE CULTURE GÉNÉRALE",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "blème sociolinguistique",
+        "ECU": "Ergonomie et Activité de Conception",
+        "ENSEIGNANTS": "Dr BOTON Ferdinand",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "blème sociolinguistique",
+        "ECU": "Problèmes socio linguistiques en Education",
+        "ENSEIGNANTS": "Prof GBAGUIDI",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Philosophie de l'esprit et de l'amour",
+        "ECU": "Philosophie de l’Esprit",
+        "ENSEIGNANTS": "Dr d'OLIVEIRA d'OLIVEIRA",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Philosophie de l'esprit et de l'amour",
+        "ECU": "Philosophie de l’amour",
+        "ENSEIGNANTS": "Dr P OKRY",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE CONNAISSANCES FONDAMENTALES",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Psychologie sociale et du travail",
+        "ECU": "Psychologie Sociale",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Psychologie sociale et du travail",
+        "ECU": "Psychologie du Travail et des Organisations",
+        "ENSEIGNANTS": "Dr BOTON Ferdinand",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Ethnographie et démographie sociale",
+        "ECU": "Ethnographie de l’Ecole",
+        "ENSEIGNANTS": "Dr GUERA CHABI ",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Ethnographie et démographie sociale",
+        "ECU": "Démographie Sociale",
+        "ENSEIGNANTS": "Prof. BABADJIDE Charles",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE SPECIALITE",
+        "classe": "MPSY1"
+    },
+    {
+        "CODES": "SES1205",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "ECU": "Séminaire Thématique1",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE METHODOLOGIE",
+        "classe": "MPSY1"
+    },
+    {
+        "CODES": "SES1205",
+        "UE": "Séminaire et Stage d’immersion professionnelle",
+        "ECU": "Stage d’immersion professionnelle",
+        "semestre": "SEMESTRE 2",
+        "type": "UE DE METHODOLOGIE",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Structure organisationnelle et gestion des conflits",
+        "ECU": "Structures Organisationnelles en Administration Scolaire et Gestion axée sur les résultats",
+        "ENSEIGNANTS": "Dr HOUNKPE Débora",
+        "semestre": "SEMESTRE 2",
+        "type": "UE CULTURE GENERALE",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Structure organisationnelle et gestion des conflits",
+        "ECU": "Gestion des conflits",
+        "ENSEIGNANTS": "Dr BOGNON Clétus",
+        "semestre": "SEMESTRE 2",
+        "type": "UE CULTURE GENERALE",
+        "classe": "MPSY1"
+    },
+    {
+        "UE": "Psychologie et Psychopathologie",
+        "ECU": "Psychologie des Emotions",
+        "ENSEIGNANTS": "Dr Antonella CRISANTE",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY2"
+    },
+    {
+        "UE": "Psychologie et Psychopathologie",
+        "ECU": "Psychopathologie",
+        "ENSEIGNANTS": "Dr ZOUNON Ornelia",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY2"
+    },
+    {
+        "UE": "Psychopédagogie et Psychologie cognitive",
+        "ECU": "Bases Psychopédagogiques des Technologies Educatives",
+        "ENSEIGNANTS": "Dr HOUNKPE Débora",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY2"
+    },
+    {
+        "UE": "Psychopédagogie et Psychologie cognitive",
+        "ECU": "Psychologie Cognitive II",
+        "ENSEIGNANTS": "Prof GANSOU",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY2"
+    },
+    {
+        "UE": "Psychologie de l'apprentissage et l'entretien clinique",
+        "ECU": "Psychologie de l’Apprentissage Scolaire",
+        "ENSEIGNANTS": "Dr TCHANSI TCHANSI",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY2"
+    },
+    {
+        "UE": "Psychologie de l'apprentissage et l'entretien clinique",
+        "ECU": "L’Entretien Clinique",
+        "ENSEIGNANTS": "Dr ZOUNON Ornelia",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY2"
+    },
+    {
+        "UE": "Politique éducative et gestion du changement",
+        "ECU": "Analyse des Politiques Educatives",
+        "ENSEIGNANTS": "Dr P CHOGOLOU",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY2"
+    },
+    {
+        "UE": "Politique éducative et gestion du changement",
+        "ECU": "Gestion du Changement en Education et Résolution de Problèmes Complexes",
+        "ENSEIGNANTS": "Dr HOUNKPE Débora",
+        "semestre": "SEMESTRE 3",
+        "type": "UE DE SPECIALITE ",
+        "classe": "MPSY2"
+    },
+    {
+        "UE": "Epistémologie et paradigme interculturel",
+        "ECU": "Epistémologie de la Recherche en Education",
+        "ENSEIGNANTS": "Dr. BISSIRIOU Mohamed",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE ",
+        "classe": "MPSY2"
+    },
+    {
+        "UE": "Epistémologie et paradigme interculturel",
+        "ECU": "Paradigme Interculturel",
+        "ENSEIGNANTS": "Prof GBAGUIDI",
+        "semestre": "SEMESTRE 3",
+        "type": "UE CULTURE GENERALE ",
+        "classe": "MPSY2"
+    }
+]

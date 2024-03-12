@@ -1,0 +1,424 @@
+[
+    {
+     "NUMERO D'ORDRE": 30,
+     "NOM": "ADAMBADJI",
+     "PRENOM": "Adelphe",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "96 08 26 75"
+    },
+    {
+     "NUMERO D'ORDRE": 2,
+     "NOM": "AGBALENYO",
+     "PRENOM": "Dominique-Rosario",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Directeur des Etudes",
+     "CONTACT": "57 55 18 38"
+    },
+    {
+     "NUMERO D'ORDRE": 31,
+     "NOM": "AGOSSOU",
+     "PRENOM": "Jacques",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "95 40 33 02 ",
+     "MAIL": "opmbenin4@hotmail.com  "
+    },
+    {
+     "NUMERO D'ORDRE": 22,
+     "NOM": "AKOFFODJI",
+     "PRENOM": "Roger",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "95 06 66 41 \/ 90 05 02 28 ",
+     "MAIL": "florokoffodji@hotmail.fr"
+    },
+    {
+     "NUMERO D'ORDRE": 3,
+     "NOM": "AKOHA",
+     "PRENOM": "Théophile",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "GRADE": "Maître de Conférences",
+     "CONTACT": "95 05 89 04",
+     "MAIL": "theoakoha@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 12,
+     "NOM": "ALE",
+     "PRENOM": "Charlotte",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "66 39 49 13"
+    },
+    {
+     "NUMERO D'ORDRE": 36,
+     "NOM": "ANANI",
+     "PRENOM": "Isabelle",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "96 73 00 51 \/ 64 55 29 45",
+     "MAIL": "isabelle.anani@gmail.com"
+    },
+    {
+     "NUMERO D'ORDRE": 17,
+     "NOM": "ANOUMOU",
+     "PRENOM": "Roger",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "94 51 26 29 \/ + 39 389 207 3504",
+     "MAIL": "anouro@yahoo.fr"
+    },
+    {
+     "NUMERO D'ORDRE": 21,
+     "NOM": "BABADJIDE",
+     "PRENOM": "Charles",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 46 12 83"
+    },
+    {
+     "NUMERO D'ORDRE": 50,
+     "NOM": "BOGNON",
+     "PRENOM": "Clétus",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 13,
+     "NOM": "BOTCHI",
+     "PRENOM": "Jean Marie",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "66 30 43 00 \/ 60 56 46 77",
+     "MAIL": "botchigo@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 33,
+     "NOM": "BOTON",
+     "PRENOM": "Ferdinand",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "66 88 91 71"
+    },
+    {
+     "NUMERO D'ORDRE": 20,
+     "NOM": "CHABI IMOROU ",
+     "PRENOM": "Azizou",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "66 31 81 69",
+     "MAIL": "ciazizou@yahoo.fr"
+    },
+    {
+     "NUMERO D'ORDRE": 7,
+     "NOM": "CHOGOLOU",
+     "PRENOM": "Guillaume",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 26 31 71  ",
+     "MAIL": "gchogolou@yahoo.fr"
+    },
+    {
+     "NUMERO D'ORDRE": 15,
+     "NOM": "CRISANTE",
+     "PRENOM": "Antonella",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "67 28 84 44 ",
+     "MAIL": "antonella.crisante@libero.it  "
+    },
+    {
+     "NUMERO D'ORDRE": 44,
+     "NOM": "DE CHACUS",
+     "PRENOM": "Sylvie",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 24 68 96",
+     "MAIL": "dechacussylvie@hotmail.com  "
+    },
+    {
+     "NUMERO D'ORDRE": 32,
+     "NOM": "DJAGBA",
+     "PRENOM": "Faustin",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 37 77 77 \/ 95 05 13 19 ",
+     "MAIL": "faustindjagba@gmail.com  "
+    },
+    {
+     "NUMERO D'ORDRE": 27,
+     "NOM": "DJESSOUKPO",
+     "PRENOM": "Jean Baptiste",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "95 31 46 81 ",
+     "MAIL": "fifajb@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 8,
+     "NOM": "DJIDONOU",
+     "PRENOM": "Anselme",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "94 08 11 28",
+     "MAIL": "cmjubile2000@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 40,
+     "NOM": "D'OLIVERA",
+     "PRENOM": "Guy",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 18,
+     "NOM": "DOVONOU",
+     "PRENOM": "Jérémie",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 19 39 23"
+    },
+    {
+     "NUMERO D'ORDRE": 41,
+     "NOM": "EZIN",
+     "PRENOM": "Josiane",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "95 93 27 75"
+    },
+    {
+     "NUMERO D'ORDRE": 14,
+     "NOM": "GANSOU",
+     "PRENOM": "Magloire",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 32 86 78 ",
+     "MAIL": "gregansou@gmail.com    "
+    },
+    {
+     "NUMERO D'ORDRE": 16,
+     "NOM": "GBAGUIDI",
+     "PRENOM": "Julien",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "96 66 98 52 \/ 95 94 07 07",
+     "MAIL": "gbaguidikoffijulien@gmail.com"
+    },
+    {
+     "NUMERO D'ORDRE": 19,
+     "NOM": "GIOVANAZZI",
+     "PRENOM": "Agnese",
+     "CONSECRATION": "Religieuse",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 9,
+     "NOM": "GOUDJINOU",
+     "PRENOM": "Colbert",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "64 50 00 12 ",
+     "MAIL": "goudjinoucolbert@yahoo.fr"
+    },
+    {
+     "NUMERO D'ORDRE": 49,
+     "NOM": "GUERA CHABI",
+     "PRENOM": "Yoro Yarou",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 47,
+     "NOM": "HOUNKPATIN",
+     "PRENOM": "Ella",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 64 86 14"
+    },
+    {
+     "NUMERO D'ORDRE": 25,
+     "NOM": "HOUNKPE",
+     "PRENOM": "Débora",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "67 84 15 61 \/ 97 24 44 21",
+     "MAIL": "hdebbiefr@yahoo.fr"
+    },
+    {
+     "NUMERO D'ORDRE": 24,
+     "NOM": "HOUNZANDJI",
+     "PRENOM": "Aimé",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 96 96 77"
+    },
+    {
+     "NUMERO D'ORDRE": 28,
+     "NOM": "KEDOWIDE",
+     "PRENOM": "Hubert",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "68 72 15 15 ",
+     "MAIL": "satolaboua@yahoo.fr    "
+    },
+    {
+     "NUMERO D'ORDRE": 4,
+     "NOM": "KINKPON",
+     "PRENOM": "Philippe",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "GRADE": " Maître Assistant",
+     "CONTACT": "95 85 62 32 ",
+     "MAIL": "kinphilippe@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 38,
+     "NOM": "KITI",
+     "PRENOM": "Christian",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 46,
+     "NOM": "KPATCHAVI",
+     "PRENOM": "Adolphe",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 39,
+     "NOM": "MEDEGNON",
+     "PRENOM": "Désiré",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 37,
+     "NOM": "MENSAH",
+     "PRENOM": "Israel",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 06 02 34",
+     "MAIL": "imensah@free.fr"
+    },
+    {
+     "NUMERO D'ORDRE": 43,
+     "NOM": "MIYIGBENA",
+     "PRENOM": "Cyrille",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 45,
+     "NOM": "MONKAM",
+     "PRENOM": "Yvette",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 34,
+     "NOM": "NAYETON",
+     "PRENOM": "Epiphane",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 68 74 26",
+     "MAIL": "epistenay@yahoo.com"
+    },
+    {
+     "NUMERO D'ORDRE": 23,
+     "NOM": "NONNOU",
+     "PRENOM": "Gildas",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 33 05 80"
+    },
+    {
+     "NUMERO D'ORDRE": 1,
+     "NOM": "OKRY",
+     "PRENOM": "Magloire",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vice-Président",
+     "GRADE": "Maître Assistant",
+     "CONTACT": "95 28 27 31",
+     "MAIL": "okrymag@gmail.com"
+    },
+    {
+     "NUMERO D'ORDRE": 42,
+     "NOM": "OUASSA-KOARO",
+     "PRENOM": "Monique",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "66 21 42 42 \/ 96 81 71 41 ",
+     "MAIL": "kouaro@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 5,
+     "NOM": "OUINSOU",
+     "PRENOM": "Brice",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Permanent",
+     "GRADE": "Maître Assistant",
+     "CONTACT": "65 37 49 25 ",
+     "MAIL": "ouinsoub@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 35,
+     "NOM": "SOBAKIN",
+     "PRENOM": "Raymond",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire",
+     "CONTACT": "95 52 57 46 ",
+     "MAIL": "aysobat@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 11,
+     "NOM": "SOSSOUHOUNTO",
+     "PRENOM": "Nadine",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 44 97 63",
+     "MAIL": "nadinesossouhounto@yahoo.fr"
+    },
+    {
+     "NUMERO D'ORDRE": 10,
+     "NOM": "TECHOU",
+     "PRENOM": "Roland",
+     "CONSECRATION": "Pretre",
+     "STATUT": "Vacataire"
+    },
+    {
+     "NUMERO D'ORDRE": 6,
+     "NOM": "TIGRY",
+     "PRENOM": "Perpétue",
+     "CONSECRATION": "Religieuse",
+     "STATUT": "Permanent",
+     "CONTACT": "94 44 05 95 ",
+     "MAIL": "tigryeulalie@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 29,
+     "NOM": "TOGBE",
+     "PRENOM": "Timothée",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 70 68 50"
+    },
+    {
+     "NUMERO D'ORDRE": 26,
+     "NOM": "TOUDONOU",
+     "PRENOM": "Gisèle",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "97 61 43 90",
+     "MAIL": "egountou@yahoo.fr  "
+    },
+    {
+     "NUMERO D'ORDRE": 48,
+     "NOM": "ZOUNON",
+     "PRENOM": "Ornelia",
+     "CONSECRATION": "Laic",
+     "STATUT": "Vacataire",
+     "CONTACT": "95 39 82 12"
+    }
+   ]

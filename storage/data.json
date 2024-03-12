@@ -1,0 +1,735 @@
+[
+    {
+     "Matricule": "MFA 0420",
+     "Prenoms": "Maryse",
+     "Nom": "AGBANDE",
+     "Contact": "95 46 41 13                                                                          ",
+     "Email": "koagban@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "MFA",
+     "Classe": "LU1"
+    },
+    {
+     "Matricule": "MFA 0428",
+     "Prenoms": "O. L. Diane M.",
+     "Nom": "BALLE ",
+     "Contact": "66 92 87 83                                                                            ",
+     "Email": "dynosias9@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "MFA",
+     "Classe": "LU1"
+    },
+    {
+     "Matricule": "MFA 0423",
+     "Prenoms": "Anne-Marie A",
+     "Nom": "LALEYE",
+     "Contact": "96 51 64 58                                     ",
+     "Email": "akoualam08@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "MFA",
+     "Classe": "LU1"
+    },
+    {
+     "Matricule": "MFA 0426",
+     "Prenoms": "Salamatou",
+     "Nom": "YANTEKOUA ",
+     "Email": "yantekouasalamatou@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "MFA",
+     "Classe": "LU1"
+    },
+    {
+     "Matricule": "MFA 0427",
+     "Prenoms": "K. D. André",
+     "Nom": "ZANNOU ",
+     "Contact": "53 24 84 93                                         ",
+     "Email": "andrezannou9@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "MFA",
+     "Classe": "LU1"
+    },
+    {
+     "Matricule": "MFA 0410",
+     "Prenoms": "Soumyatou",
+     "Nom": "DEGUE ",
+     "Contact": "95 54 06 87                                                                ",
+     "Email": "Soumyathdegue@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "MFA",
+     "Classe": "LU2"
+    },
+    {
+        "Matricule": "MFI 0410",
+        "Prenoms": "JULES",
+        "Nom": "BESSAN ",
+        "Contact": "96328451                                                                ",
+        "Email": "jules2bessan@gmail.com",
+        "Niveau": "L2",
+        "Filiere": "MFA",
+        "Classe": "LU2"
+    },
+    {
+     "Matricule": "MFA 0411",
+     "Prenoms": "Tankio Ida Laura",
+     "Nom": "DJEUMO ",
+     "Contact": "53 04 29 38                                       ",
+     "Email": "lauradjeumo90@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "MFA",
+     "Classe": "LU2"
+    },
+    {
+     "Matricule": "MFA 0418",
+     "Prenoms": "Marie-Françoise",
+     "Nom": "KOUDJENOU ",
+     "Niveau": "L2",
+     "Filiere": "MFA",
+     "Classe": "LU2"
+    },
+    {
+     "Matricule": "MFA 0412",
+     "Prenoms": "Joselyne",
+     "Nom": "NDAYIKEZA ",
+     "Contact": "51 51 58 33                          ",
+     "Email": "ndaykezajoselyne932@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "MFA",
+     "Classe": "LU2"
+    },
+    {
+     "Matricule": "MFA 0403",
+     "Prenoms": "G. Adolphe",
+     "Nom": "AGBEDE ",
+     "Contact": "66 96 18 13                 ",
+     "Email": "adolpheagbèdè@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "MFA",
+     "Classe": "LU3"
+    },
+    {
+     "Matricule": "MFA 0407",
+     "Prenoms": "Moyéba",
+     "Nom": "BONSA ",
+     "Contact": "00228 92 34 01 49                                      ",
+     "Email": "moyebabons@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "MFA",
+     "Classe": "LU3"
+    },
+    {
+     "Matricule": "MFA 0405",
+     "Prenoms": "Sèhidé Charlotte",
+     "Nom": "COTOMI ",
+     "Contact": "63 58 14 81                                               ",
+     "Email": "cotomisehide@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "MFA",
+     "Classe": "LU3"
+    },
+    {
+     "Matricule": "MFA 0404",
+     "Prenoms": "Dahountou Samuel",
+     "Nom": "GNARGO ",
+     "Contact": "00226 72 85 80 52                                         ",
+     "Email": "samuelgnargo@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "MFA",
+     "Classe": "LU3"
+    },
+    {
+     "Matricule": "MFA 0409",
+     "Prenoms": "Guillaume Bruno",
+     "Nom": "MESSAN ",
+     "Contact": "97 32 85 19                       ",
+     "Email": "brunomesan@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "MFA",
+     "Classe": "LU3"
+    },
+    {
+     "Matricule": "PSE 0198",
+     "Prenoms": " A. Flora",
+     "Nom": "AKODEBAKOU",
+     "Contact": "69 96 45 24                                     ",
+     "Email": "akodebakouflora@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0199",
+     "Prenoms": "A. Macaire",
+     "Nom": "ALOHOUTADE ",
+     "Contact": "95 12 70 41                                                     ",
+     "Email": "mariexst@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0201",
+     "Prenoms": "Déborah Chelsea",
+     "Nom": "DRABO ",
+     "Contact": "54 10 06 70                         ",
+     "Email": "deby.drabo40@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0202",
+     "Prenoms": "Gisèle",
+     "Nom": "GBENOU ",
+     "Contact": "95 86 87 70                        ",
+     "Email": "giseleouinsou@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0203",
+     "Prenoms": "Kafui",
+     "Nom": "DEMAGNON ",
+     "Contact": "51 86 49 95                                                ",
+     "Email": "joannadmg15@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0204",
+     "Prenoms": "E. A. Chantal",
+     "Nom": "AMOUSSOU ",
+     "Contact": "95 95 35 16                                   ",
+     "Email": "amityse@yahoo.fr",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0205",
+     "Prenoms": " Hakimath Emmanuella",
+     "Nom": "LAWANI",
+     "Contact": "91 63 95 45                            ",
+     "Email": "kimsantos594@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0206",
+     "Prenoms": "Claudine",
+     "Nom": "NDAYIZEYE ",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0207",
+     "Prenoms": "Berthe",
+     "Nom": "MENSAH ",
+     "Contact": "96 95 90 00                                      ",
+     "Email": "berthe.angele@yahoo.fr",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0208",
+     "Prenoms": "Martine",
+     "Nom": "KINDJINOU ",
+     "Contact": "61 39 98 18                          ",
+     "Email": "martinekindjinou@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0209",
+     "Prenoms": "Abraham",
+     "Nom": "PADONOU ",
+     "Contact": "96 03 95 99                                                     ",
+     "Email": "pag271@yahoo.fr",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "LF1"
+    },
+    {
+     "Matricule": "PSE 0189",
+     "Prenoms": "Kalam",
+     "Nom": "ADJIDJOLA ",
+     "Contact": "62 86 41 70                                           ",
+     "Email": "mouss4556@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0195",
+     "Prenoms": " Marie Donaldia K.",
+     "Nom": "AMOUSSOU",
+     "Contact": "94 61 85 10                                ",
+     "Email": "marieamoussou66@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0177",
+     "Prenoms": "Georges",
+     "Nom": "CIRHUZA ",
+     "Contact": 243851612520,
+     "Email": "cirhugeorges@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0179",
+     "Prenoms": "Dona-Clara",
+     "Nom": "DAHOU ",
+     "Contact": "59 59 58 22                                         ",
+     "Email": "donaclaradahou@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0186",
+     "Prenoms": "Loïc Hervé Davy",
+     "Nom": "FRANCISCO ",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0194",
+     "Prenoms": "Joselyne",
+     "Nom": "HABIMANA ",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0183",
+     "Prenoms": "Bryan Irelary Jim",
+     "Nom": "HOUNSOU ",
+     "Contact": "61 62 81 63                              ",
+     "Email": "hounsoubryanijim@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0184",
+     "Prenoms": "Désiré",
+     "Nom": "KINDA ",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0178",
+     "Prenoms": "Fidèle",
+     "Nom": "MURHABAZI ",
+     "Contact": "54 17 15 65                 ",
+     "Email": "fidelemurhabozi6@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0193",
+     "Prenoms": "Floride",
+     "Nom": "NSHIMIRIMANA ",
+     "Contact": "54 32 71 70                                                           ",
+     "Email": "floridenshimirimana08@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0187",
+     "Prenoms": "A. G. Joyce",
+     "Nom": "OGOUVIDE ",
+     "Contact": "55 90 60 16                    ",
+     "Email": "ogouvidegaelle@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0192",
+     "Prenoms": "O. Chantal",
+     "Nom": "OHOUNCHILE ",
+     "Contact": "97 52 01 80                                     ",
+     "Email": "Ohounchilechantal@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0180",
+     "Prenoms": "Faïsath",
+     "Nom": "SALIOU ",
+     "Contact": "99 25 25 66                                                      ",
+     "Email": "sfaisath@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0176",
+     "Prenoms": "Eudoxie",
+     "Nom": "SEZONLIN ",
+     "Contact": "99 25 25 66                                 ",
+     "Email": "Mivemahusez@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0182",
+     "Prenoms": "Sikiratou Soubéda",
+     "Nom": "SOUIN ",
+     "Contact": "96 96 89 26                                      ",
+     "Email": "Sikimaeva@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0196",
+     "Prenoms": "Jules",
+     "Nom": "TCHALLA ",
+     "Contact": "96 57 84 66                   ",
+     "Email": "julestchalla54@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "LF2"
+    },
+    {
+     "Matricule": "PSE 0164",
+     "Prenoms": " Sem Caleb",
+     "Nom": "ADJAHOTO",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0169",
+     "Prenoms": "Adzo Délali",
+     "Nom": "AMEDOME ",
+     "Email": "amedelali21@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0158",
+     "Prenoms": "Marco Carlos V. E. S.",
+     "Nom": "CHATENET ",
+     "Contact": "94 37 52 70                    ",
+     "Email": "chatenetmarco@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0167",
+     "Prenoms": " Joannes-Maria Pio Sourou",
+     "Nom": "COOVI CHEKETE",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0175",
+     "Prenoms": "Mondoukpè Mesmine E.",
+     "Nom": "DEGLA ",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0174",
+     "Prenoms": "Solange",
+     "Nom": "DJOSSA ",
+     "Contact": "98 51 88 88                                                     ",
+     "Email": "miyigbenasolange@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0155",
+     "Prenoms": "Winnie Barbara S.",
+     "Nom": "GANDAHO ",
+     "Contact": "69 13 78 77                       ",
+     "Email": "gandahobarbara@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0170",
+     "Prenoms": "Buena Nadine",
+     "Nom": "GNELE ",
+     "Contact": "99 73 50 50 \/ 59 00 70 59            ",
+     "Email": "buenagnele@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0156",
+     "Prenoms": "Jécolia Bérénice",
+     "Nom": "HOUNGBEDJI  ",
+     "Contact": "54 10 35 61              ",
+     "Email": "houngbedjibérenice@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0190",
+     "Prenoms": "Lauryn",
+     "Nom": "KIKISAGBE ",
+     "Contact": "67 89 71 70   \/ 94 26 76 42                           ",
+     "Email": "laurynkikissagbe@yahoo.fr",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0159",
+     "Prenoms": "Yantchinogo",
+     "Nom": "KOUAGO ",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0172",
+     "Prenoms": "Rivaldo Gilchrist",
+     "Nom": "NOUGBE ",
+     "Contact": "62 44 52 87                            ",
+     "Email": "nougberivaldo17@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0157",
+     "Prenoms": "Nondémé S. D. Sarah",
+     "Nom": "TCHIBOZO ",
+     "Contact": "95 69 50 43                                            ",
+     "Email": "Tchibozo46@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0165",
+     "Prenoms": "Mondukpè Couronnée",
+     "Nom": "TOGBE ",
+     "Contact": "61 39 21 88                          ",
+     "Email": "couronnee.togbe@gmail.com",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "PSE 0160",
+     "Prenoms": "Bryan Uriel M.",
+     "Nom": "TOKPLO ",
+     "Niveau": "L3",
+     "Filiere": "PSE",
+     "Classe": "LF3"
+    },
+    {
+     "Matricule": "MFA 0421",
+     "Prenoms": "Souley Dominique",
+     "Nom": "ALBARKA ",
+     "Contact": "00227 91 17 66 72 ",
+     "Email": "albarkadominique@gmail.com",
+     "Niveau": "M1",
+     "Filiere": "MFA",
+     "Classe": "LC1"
+    },
+    {
+     "Matricule": "MFA 0422",
+     "Prenoms": "Sinaise",
+     "Nom": "BIGIRIMANA ",
+     "Contact": "00257 79 23 55 69                                ",
+     "Email": "bsinaize@yahoo.fr",
+     "Niveau": "M1",
+     "Filiere": "MFA",
+     "Classe": "LC1"
+    },
+    {
+     "Matricule": "MFA 0424",
+     "Prenoms": "Jean de Dieu",
+     "Nom": "MIMBUGBE BENEFICE ",
+     "Contact": "59 09 46 32 ",
+     "Email": "jeandedieubenefice77@gmail.com",
+     "Niveau": "M1",
+     "Filiere": "MFA",
+     "Classe": "LC1"
+    },
+    {
+     "Matricule": "MFA 0425",
+     "Prenoms": "Robson",
+     "Nom": "PENDUKA ",
+     "Niveau": "M1",
+     "Filiere": "MFA",
+     "Classe": "LC1"
+    },
+    {
+     "Matricule": "MFA 0413",
+     "Prenoms": "Boris Adonis",
+     "Nom": "APANE BIONG ",
+     "Contact": 242067073071,
+     "Email": "apaneadonis@gmail.com",
+     "Niveau": "M2",
+     "Filiere": "MFA",
+     "Classe": "LC2"
+    },
+    {
+     "Matricule": "MFA 0415",
+     "Prenoms": "Nathaniel",
+     "Nom": "DOUADJIM ",
+     "Contact": "00235 66 63 36 84                      ",
+     "Email": "douadjimnat@gmail.com",
+     "Niveau": "M2",
+     "Filiere": "MFA",
+     "Classe": "LC2"
+    },
+    {
+     "Matricule": "MFA 0419 ",
+     "Prenoms": "Sadith",
+     "Nom": "KENEMANA ",
+     "Contact": "00257 79 385 044                 ",
+     "Email": "kenesadith@gmail.com",
+     "Niveau": "M2",
+     "Filiere": "MFA",
+     "Classe": "LC2"
+    },
+    {
+     "Matricule": "MFA 0414",
+     "Prenoms": "Giresse Liévin",
+     "Nom": "MUYA ",
+     "Contact": "00229 90 17 95 08                ",
+     "Email": "giresselievin@gmail.com",
+     "Niveau": "M2",
+     "Filiere": "MFA",
+     "Classe": "LC2"
+    },
+    {
+     "Matricule": "MFA 0416",
+     "Prenoms": "Antoine",
+     "Nom": "NGENDANDUMWE ",
+     "Contact": "54 64 05 82            ",
+     "Email": "antoinengendandumwe@gmail.com",
+     "Niveau": "M2",
+     "Filiere": "MFA",
+     "Classe": "LC2"
+    },
+    {
+     "Matricule": "MFA 0417",
+     "Prenoms": "Benjamin",
+     "Nom": "TONTO ",
+     "Contact": "00228 90 85 82 89                       ",
+     "Email": "abadjenebenjamin@gmail.com",
+     "Niveau": "M2",
+     "Filiere": "MFA",
+     "Classe": "LC2"
+    },
+    {
+     "Matricule": "MFA 0364",
+     "Prenoms": "Adélaïde",
+     "Nom": "KARAMA M",
+     "Contact": "00225 07 599 146 89                      ",
+     "Email": "adekaram@yahoo.com",
+     "Niveau": "L2",
+     "Filiere": "MFA",
+     "Classe": "MFA2"
+    },
+    {
+     "Matricule": "MFA 0363",
+     "Prenoms": "Rolande",
+     "Nom": "SODAHLON ",
+     "Contact": "62 63 26 15                                    ",
+     "Email": "sodahlonrolande@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "MFA",
+     "Classe": "MFA2"
+    },
+    {
+     "Matricule": "MFA 0236",
+     "Prenoms": " C. Yvette",
+     "Nom": "PADONOU",
+     "Contact": "62 40 00 00                                                                           ",
+     "Email": "lovepower_ngo@yahoo.com",
+     "Niveau": "L2",
+     "Filiere": "MFA",
+     "Classe": "MFA2"
+    },
+    {
+     "Matricule": "PSE 0200",
+     "Prenoms": "Karen-Martine G.",
+     "Nom": "BAGOUDOU",
+     "Contact": "62 94 13 85                                      ",
+     "Email": "Karenmartinebagoudou@gmail.com",
+     "Niveau": "L1",
+     "Filiere": "PSE",
+     "Classe": "PSE1"
+    },
+    {
+     "Matricule": "PSE 0191",
+     "Prenoms": " Gbênakpon David",
+     "Nom": "ADOUHOUNCLA",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "SE2"
+    },
+    {
+     "Matricule": "PSE 0130",
+     "Prenoms": "Afiavi Bernadette",
+     "Nom": "HABADA ",
+     "Contact": "66 92 23 36 ",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "SE2"
+    },
+    {
+     "Matricule": "PSE 0131",
+     "Prenoms": "Pascaline",
+     "Nom": "OKPA ",
+     "Contact": "67 29 12 48                               ",
+     "Email": "Okpaselome@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "SE2"
+    },
+    {
+     "Matricule": "PSE 0188",
+     "Prenoms": "Koruntan Irène",
+     "Nom": "OGA ",
+     "Contact": "97 38 56 64                                                    ",
+     "Email": "irnoga@yahoo.fr",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "SE2"
+    },
+    {
+     "Matricule": "PSE 0197",
+     "Prenoms": "Aimé",
+     "Nom": "DJIMASRA ",
+     "Contact": "92 44 07 76                               ",
+     "Email": "djimasraaim@gmail.com",
+     "Niveau": "L2",
+     "Filiere": "PSE",
+     "Classe": "SE2"
+    }
+   ]

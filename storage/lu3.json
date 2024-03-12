@@ -1,0 +1,208 @@
+[
+    {
+        "CODES": "PCP1501",
+        "UE": "Psychologie Clinique et Psychopathologie ",
+        "ECU": "Psychologie Clinique",
+        "ENSEIGNANTS": "Prof ZOUNNON Ornellia",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PCP1501",
+        "UE": "Psychologie Clinique et Psychopathologie ",
+        "ECU": " Psychopathologie ",
+        "ENSEIGNANTS": "Dr CRISANTE",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PCO1502",
+        "UE": "Psychologie Cognitive",
+        "ECU": "Psychologie Cognitive ",
+        "ENSEIGNANTS": "Prof Magloire GANSOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PCO1502",
+        "UE": "Psychologie Cognitive",
+        "ECU": "Emotion et Environnement de la Communication",
+        "ENSEIGNANTS": "Dr P Hubert KEDOWIDE",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PAE1503",
+        "UE": "Psychologie des Agents Economiques",
+        "ECU": "Psychologie du consommateur",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PAE1503",
+        "UE": "Psychologie des Agents Economiques",
+        "ECU": "Psychologie du Travail et des Organisations",
+        "ENSEIGNANTS": "Dr Ferdinand BOTON",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "EEP1504",
+        "UE": "Ergonomie et évaluation psychologique",
+        "ECU": "Ergonomie : Approches et analyse de situations de travail",
+        "ENSEIGNANTS": "Dr Ferdinand BOTON",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "EEP1504",
+        "UE": "Ergonomie et évaluation psychologique",
+        "ECU": "Evaluation en Psychologie",
+        "ENSEIGNANTS": "Dr. P. Epiphane NAYETON",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1505",
+        "UE": "Démarche d’Intervention du Psychologue et Techniques d’Expérimentation",
+        "ECU": "Psychologie et Santé",
+        "ENSEIGNANTS": "Prof DJIDONOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1505",
+        "UE": "Démarche d’Intervention du Psychologue et Techniques d’Expérimentation",
+        "ECU": "Démarche d’Intervention du Psychologue et Techniques d’Expérimentation",
+        "ENSEIGNANTS": "Prof Rogatien SEGLA",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "DRA1506",
+        "UE": "Droit et Administration",
+        "ECU": "Droits de la personne humaine (TC)",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "semestre": "SEMESTRE 5",
+        "type": "UE  CULTURE  GÉNÉRALE"
+    },
+    {
+        "CODES": "DRA1506",
+        "UE": "Droit et Administration",
+        "ECU": "Rédaction Administrative (TC)",
+        "ENSEIGNANTS": "Dr Gildas NONOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE  CULTURE  GÉNÉRALE"
+    },
+    {
+        "CODES": "PCP1501/1",
+        "UE": "Psychologie Clinique et Psychopathologie ",
+        "ECU": "Psychologie Clinique",
+        "ENSEIGNANTS": "Prof ZOUNNON Ornellia",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PCP1501/1",
+        "UE": "Psychologie Clinique et Psychopathologie ",
+        "ECU": " Psychopathologie ",
+        "ENSEIGNANTS": "Dr CRISANTE",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SOE1501",
+        "UE": "Sociologie de l’Education",
+        "ECU": "Sociologie de l’Education",
+        "ENSEIGNANTS": "Dr. P. Jean DJESSOUKPO",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "SOE1501",
+        "UE": "Sociologie de l’Education",
+        "ECU": "Prévention et Gestion de la Délinquance Juvénile",
+        "ENSEIGNANTS": "Prof Anselme DJIDONOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "PGD1503",
+        "ECU": "Education en Milieu Défavorisé",
+        "ENSEIGNANTS": "Dr. P. Amé HOUNZANDJI",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "CODES": "1504",
+        "UE": "1504",
+        "ECU": "Stratégies et Méthodes de Réinsertion Sociale",
+        "ENSEIGNANTS": "Dr P. Jean Marie BOTCHI",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "1504",
+        "UE": "1504",
+        "ECU": "Elaboration de Politique d’Education",
+        "ENSEIGNANTS": "Dr P. G. CHOGOLOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "MEA1505 ",
+        "UE": "Méthode d’Enseignement : Analyse et Rôle de l’Enseignant",
+        "ECU": "Corps Humain entre Esthétique et Ethique",
+        "ENSEIGNANTS": "Prof. Théophile AKOHA",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "MEA1505",
+        "UE": "Méthode d’Enseignement : Analyse et Rôle de l’Enseignant",
+        "ECU": "Méthode d’Enseignement : Analyse et Rôle de l’Enseignant",
+        "ENSEIGNANTS": "Dr P. G. CHOGOLOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE DE METHODOLOGIE"
+    },
+    {
+        "CODES": "DRA1506/6",
+        "UE": "Droit et Administration",
+        "ECU": "Droits de la personne humaine (TC)",
+        "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+        "semestre": "SEMESTRE 5",
+        "type": "UE  CULTURE  GÉNÉRALE"
+    },
+    {
+        "CODES": "DRA1506/6",
+        "UE": "Droit et Administration",
+        "ECU": "Rédaction Administrative (TC)",
+        "ENSEIGNANTS": "Dr Gildas NONOU",
+        "semestre": "SEMESTRE 5",
+        "type": "UE  CULTURE  GÉNÉRALE"
+    },
+    {
+        "UE": "Stages et sorties pédagogiques",
+        "ECU": "Stage",
+        "semestre": "SEMESTRE 6",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Stages et sorties pédagogiques",
+        "ECU": "Sortie Pédagogique",
+        "semestre": "SEMESTRE 6",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Rédaction de mémoire et soutenance",
+        "ECU": "Rédaction",
+        "semestre": "SEMESTRE 6",
+        "type": "UE DE SPECIALITE"
+    },
+    {
+        "UE": "Rédaction de mémoire et soutenance",
+        "ECU": "Soutenance",
+        "semestre": "SEMESTRE 6",
+        "type": "UE DE SPECIALITE"
+    }
+]

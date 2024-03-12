@@ -1,0 +1,197 @@
+
+    [
+        {
+            "CODES": "TIC 1101",
+            "UE": "Technologie de l’Information et de la Communication",
+            "ECU": "Initiation à l’informatique",
+            "ENSEIGNANTS": "Dr Boris DJIMADJA SAV",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE CONNAISSANCES FONDAMENTALES"
+        },
+        {
+            "CODES": "TIC 1101",
+            "UE": "Technologie de l’Information et de la Communication",
+            "ECU": "Bureautique et internet",
+            "ENSEIGNANTS": "Dr Boris DJIMADJA SAV",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE CONNAISSANCES FONDAMENTALES"
+        },
+        {
+            "CODES": "FSO1102",
+            "UE": "Fondamentaux en Sociologie",
+            "ECU": "Sociologie générale",
+            "ENSEIGNANTS": "Dr. Nadine SOSSOUHOUNTO",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE CONNAISSANCES FONDAMENTALES"
+        },
+        {
+            "CODES": "FSO1102",
+            "UE": "Fondamentaux en Sociologie",
+            "ECU": "Sociologie de la famille",
+            "ENSEIGNANTS": "Dr Charlotte ALE",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE CONNAISSANCES FONDAMENTALES"
+        },
+        {
+            "CODES": "FPS1103",
+            "UE": "Fondamentaux en Psychologie",
+            "ECU": "Psychologie générale et cognitive",
+            "ENSEIGNANTS": "Prof Magloire GANSOU",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE SPECIALITE"
+        },
+        {
+            "CODES": "FPS1103",
+            "UE": "Fondamentaux en Psychologie",
+            "ECU": "Psychologie sociale",
+            "ENSEIGNANTS": "Dr Antonella CRISANTE",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE SPECIALITE"
+        },
+        {
+            "CODES": "EEC1104",
+            "UE": "Expression Ecrite   et Créativité (EEC)",
+            "ECU": "Expression Ecrite et Orale (EEO)",
+            "ENSEIGNANTS": "Prof Julien GBAGUIDI",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE SPECIALITE"
+        },
+        {
+            "CODES": "EEC1104",
+            "UE": "Expression Ecrite   et Créativité (EEC)",
+            "ECU": "Créativité",
+            "ENSEIGNANTS": "Dr Roger ANOUMOU",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE SPECIALITE"
+        },
+        {
+            "CODES": "MES1105",
+            "UE": "Méthodologie et Statistiques",
+            "ECU": "Statistiques – Mesurage I",
+            "ENSEIGNANTS": "Dr AZIZOU",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE METHODOLOGIE"
+        },
+        {
+            "CODES": "MES1105",
+            "UE": "Méthodologie et Statistiques",
+            "ECU": "Les Méthodologies de travail universitaire",
+            "ENSEIGNANTS": "Prof Charles BABADJIDE",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE DE METHODOLOGIE"
+        },
+        {
+            "CODES": "LAV1106",
+            "UE": "Langues Vivantes",
+            "ECU": "Anglais",
+            "ENSEIGNANTS": "Dr Jérémie DOVONOU",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE CULTURE GÉNÉRALE "
+        },
+        {
+            "CODES": "LAV1106",
+            "UE": "Langues Vivantes",
+            "ECU": "Italien",
+            "ENSEIGNANTS": "Sr Agnese GIOVANAZZI",
+            "LU1": "x",
+            "semestre": "SEMESTRE 1",
+            "type": "UE CULTURE GÉNÉRALE "
+        },
+        {
+            "CODES": "DRS1201",
+            "UE": "Droit et société",
+            "ECU": "1DRS1201: Introduction au droit",
+            "ENSEIGNANTS": "Dr Roger AKOFFODJI",
+            "LU1": "x",
+            "semestre": "SEMESTRE 2",
+            "type": "UE DE CONNAISSANCES FONDAMENTALES"
+        },
+        {
+            "CODES": "DRS1201",
+            "UE": "Droit et société",
+            "ECU": "2DRS1201:Droit des sociétés",
+            "ENSEIGNANTS": "Dr Gildas NONNOU",
+            "LU1": "x",
+            "semestre": "SEMESTRE 2",
+            "type": "UE DE CONNAISSANCES FONDAMENTALES"
+        },
+        {
+            "UE": "Philosophie",
+            "ECU": "Principaux courants philosophiques",
+            "ENSEIGNANTS": "Dr Sr. Perpétue TIGRY",
+            "LU1": "x",
+            "semestre": "SEMESTRE 2",
+            "type": "UE DE CONNAISSANCES FONDAMENTALES"
+        },
+        {
+            "UE": "Philosophie",
+            "ECU": "Philosophie de l’éducation",
+            "ENSEIGNANTS": "Dr Sr. Perpétue TIGRY",
+            "LU1": "x",
+            "semestre": "SEMESTRE 2",
+            "type": "UE DE CONNAISSANCES FONDAMENTALES"
+        },
+        {
+            "CODES": "FMN1204",
+            "UE": "Pédagogie Familiale et mystère nuptial",
+            "ECU": "Pédagogie familiale et éducation aux valeurs",
+            "ENSEIGNANTS": "Dr Debora HOUNKPE",
+            "LU1": "x",
+            "semestre": "SEMESTRE 2",
+            "type": "UE DE SPECIALITE"
+        },
+        {
+            "CODES": "FMN1204",
+            "UE": "Pédagogie Familiale et mystère nuptial",
+            "ECU": "Mystère nuptial",
+            "ENSEIGNANTS": "Dr P. Philippe KINKPON",
+            "LU1": "x",
+            "semestre": "SEMESTRE 2",
+            "type": "UE DE SPECIALITE"
+        },
+        {
+            "CODES": "SES1205",
+            "UE": "Séminaire et Stage d’immersion professionnelle",
+            "ECU": "Séminaire Thématique1",
+            "ENSEIGNANTS": "Dr P Dominique AGBALENYO",
+            "semestre": "SEMESTRE 2",
+            "type": "UE DE METHODOLOGIE"
+        },
+        {
+            "CODES": "SES1205",
+            "UE": "Séminaire et Stage d’immersion professionnelle",
+            "ECU": "Stage d’immersion professionnelle",
+            "LU1": "x",
+            "semestre": "SEMESTRE 2",
+            "type": "UE DE METHODOLOGIE"
+        },
+        {
+            "CODES": "ETH1206",
+            "UE": "Ethique",
+            "ECU": "Dynamisme de l’agir humain",
+            "ENSEIGNANTS": "Dr P. Magloire OKRY",
+            "LU1": "x",
+            "semestre": "SEMESTRE 2",
+            "type": "UE CULTURE GENERALE"
+        },
+        {
+            "CODES": "ETH1206",
+            "UE": "Ethique",
+            "ECU": "Ethique sexuelle",
+            "ENSEIGNANTS": "Prof. Théophile AKOHA",
+            "LU1": "x",
+            "semestre": "SEMESTRE 2",
+            "type": "UE CULTURE GENERALE"
+        }
+    ]
