@@ -122,9 +122,6 @@
                                     <label for="inputName" class="col-sm-2 col-form-label">classe</label>
                                     <div class="col-sm-10">
                                         <select name="mclass_id" required class="custom-select select2">
-                                            @if ($class)
-                                                <em value="">{{ $class->name }}</em>
-                                            @endif
 
                                             @foreach ($classes as $classe)
                                                 <option value="{{ $classe->id }}" @selected(old('classe') == $classe)>
@@ -142,7 +139,9 @@
 
                     </div>
                 </div>
+          
             </div>
+
         </div>
     </section>
 

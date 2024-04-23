@@ -62,13 +62,13 @@
             </a>
         </li>
         <li class="nav-item">
-            <a href='{{ asset('uploads/') }}' target="_blank" class="nav-link">
+            <a href='{{ asset('uploads/' . $course->syllabus) }}' target="_blank" class="nav-link">
                 <i class="far fa-circle nav-icon"></i>
 
                 <p>Programme des cours</p>
             </a>
         </li>
-    </ul>
+    </ul> 
 </li>
 <li class="nav-item">
     <a href="{{ route('informations.index') }}" class="nav-link">

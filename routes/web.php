@@ -22,7 +22,7 @@ use App\Http\Controllers\UeController;
 use App\Http\Controllers\Semestre\SemestreController;
 
 use App\Http\Controllers\DateImportantController;
-
+use App\Http\Controllers\StudentClasseController;
 
 /*
 |--------------------------------------------------------------------------
@@ -133,5 +133,8 @@ Route::middleware([isAdmin::class])->group(function () {
     Route::get("/promotion/{promotion}/student/{user}/bulletins/{semestre}", [StudentController::class, 'studentBulletin'])->name('student-bulletin');
     Route::get("/promotion/{promotion}/student/{user}/bulletins/canonic/{semestre}", [StudentController::class, 'studentBulletinCanonique'])->name('student-bulletin-canonique');
     Route::get('/ues/{ue}/semestres/{mat}', [UeController::class, 'semestres'])->name('getSemestresByUE');
+    Route::get('/attestation',[StudentClasseController::class,'attestation']);
+    Route::post('/etudiant-nuit',[StudentController::class,'jour_soir'])->name('students.night');
+    Route::post('/matiere-nuit',[StudentController::class,'Mat_jour_soir'])->name('matieres.night');
 
 });

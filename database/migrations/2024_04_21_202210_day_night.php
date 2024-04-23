@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class SemestreUe extends Migration
+class DayNight extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,9 @@ class SemestreUe extends Migration
      */
     public function up()
     {
-        Schema::create('semestre_ue', function (Blueprint $table) {
-            $table->id();
-            $table->foreignId('ue_id')->constrained();
-            $table->foreignId('semestre_id')->constrained();
-            $table->timestamps();
+        Schema::table('users', function (Blueprint $table) {
+            $table->boolean('night')->default(false);
+            
         });
     }
 
@@ -28,6 +26,6 @@ class SemestreUe extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('semestre_ue');
+        //
     }
 }

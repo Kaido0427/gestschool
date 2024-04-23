@@ -16,10 +16,10 @@ class NotifyMail extends Mailable
      *
      * @return void
      */
+    public $data;
     public function __construct($data)
     {
         $this->data = $data;
-
     }
 
     /**
@@ -32,7 +32,6 @@ class NotifyMail extends Mailable
         return $this->from(env('MAIL_USERNAME'))
             ->subject('Compte Etudiant')
             ->view('emails.users.created')
-            ->with(['data' => $this->data])
-        ;
+            ->with(['data' => $this->data]);
     }
 }

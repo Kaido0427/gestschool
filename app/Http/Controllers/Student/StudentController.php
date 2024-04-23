@@ -152,8 +152,8 @@ class StudentController extends Controller
             //  Je Supprime les espaces supplémentaires du nom du semestre
             $semestreName = trim($semestreObjet->name);
 
-           
-                $viewPath = 'student.promotion.bulletin-semestre2'; // Par défaut, le cas non spécifié
+
+            $viewPath = 'student.promotion.bulletin-semestre2'; // Par défaut, le cas non spécifié
 
             // Vérification du chemin de la vue
             if ($viewPath !== '') {
@@ -349,7 +349,7 @@ class StudentController extends Controller
                 break;
         }
 
-        return view($viewName, compact('courses', 'userLevel', 'semestre'));
+        return view($viewName, compact('courses', 'course', 'userLevel', 'semestre'));
     }
 
 
@@ -374,6 +374,53 @@ class StudentController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
+
+
+     public function jour_soir(Request $request)
+     {
+         try {
+             Log::info('Début de la fonction jour_soir');
+     
+             $user = User::where('id', $request->user_id)->first();
+     
+             Log::info('Utilisateur trouvé : ' . $user->id);
+     
+             // Basculer la valeur de night entre 0 et 1
+             $newNightValue = ($user->night == 0) ? 1 : 0;
+     
+             Log::info('Nouvelle valeur de night : ' . $newNightValue);
+     
+             $user->update([
+                 'night' => $newNightValue
+             ]);
+     
+             Log::info('Mise à jour de l\'utilisateur : ' . $user->id . ' - Valeur night : ' . $user->night);
+     
+             return response()->json([
+                 'success' => 'Effectué avec succès',
+                 'night' => $user->night
+             ], 200);
+         } catch (\Exception $e) {
+             Log::error('Une erreur est survenue dans la fonction jour_soir : ' . $e->getMessage());
+     
+             return response()->json([
+                 'error' => 'Une erreur est survenue : ' . $e->getMessage()
+             ], 500);
+         }
+     }
+     
+    public function Mat_jour_soir(request $request)
+    {
+        $matiere = matiere::where('mclass_id',  $request->input('matiere_id'));
+
+        $matiere->update([
+            'night' => 1
+        ]);
+        return response()->json([
+            'success' => 'effectué avec succes',
+            'night' => $matiere['night']
+        ], 200);
+    }
     public function store(UserRequest $request)
     {
         /**

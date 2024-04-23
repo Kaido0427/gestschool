@@ -32,6 +32,7 @@ class User extends Authenticatable
         'birth_place',
         'birth_day',
         'nationality',
+        'night'
 
     ];
     /**

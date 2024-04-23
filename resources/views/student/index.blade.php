@@ -2,9 +2,32 @@
 
 @section('title', 'Gestion des étudiants')
 @section('content')
+<style>
+    //arriere plan flouté pour le modal
+#modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    z-index: 1040;
+    /* Le z-index doit être inférieur à celui du modal, mais supérieur à celui du contenu de la page */
+    display: none;
+    /* Le backdrop est caché par défaut */
+}
+
+#loaderModal.show~#modal-backdrop {
+    display: block;
+    /* Le backdrop est affiché lorsque le modal est ouvert */
+}
+
+</style>
 
 <section class="content">
     <div class="container-fluid">
+      
         <div class="row">
             <div class="col-12">
                 <div class="card">
@@ -136,7 +159,25 @@
                                                     </a>
                                                 </button>
                                                 @endif
+
+                                                <form id="nightForm" method="POST" action="{{ route('students.night') }}">
+                                                    @csrf
+                                                    <input type="hidden" name="user_id" value={{ $student->id }}>
+                                                    <button id="nightBtn" class="btn btn-warning btn-xs" data-state="{{ $student->night == 0 ? 'day' : 'night' }}"  data-user-id="{{ $student->id }}">
+                                                        
+                                                        @if ($student->night == 0)
+                                                            <i class="fas fa-sun"></i>
+                                                        @else
+                                                            <i class="fas fa-moon"></i>
+                                                        @endif
+                                                    </button>
+                                                </form>
                                                 
+                                               
+                                           
+                                                
+                                                
+                                
                                             @else
                                                 @foreach ($roles as $role )
                                                     @if ( $role->slug =="update_students" )
@@ -205,9 +246,71 @@
                     </div>
             
                 </div>
+     
             </div>
         </div>
+       
     </div>
         @include('includes._activate_modal')
 </section>
+<script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+<script>
+    $(document).ready(function() {
+    console.log('DOM chargé');
+    console.log($('#nightBtn').length); // Vérifie si le sélecteur trouve le bouton
+
+    // Utilisez la fonction .on() pour attacher le gestionnaire d'événements click
+    $(document).on('click', '#nightBtn', function() {
+        console.log('Bouton cliqué');
+        var $button = $(this);
+
+        // Désactiver le bouton pour éviter les clics multiples
+        $button.prop('disabled', true);
+
+        // Changer l'icône par l'icône de chargement
+        $button.html('<i class="fas fa-spinner fa-spin"></i>');
+ // Récupérer l'ID de l'utilisateur à partir de l'attribut data-user-id
+ var userId = $button.data('user-id');
+        // Ajouter le jeton CSRF aux données de la requête
+        var token = $('meta[name="csrf-token"]').attr('content');
+
+        console.log('ID de l\'utilisateur :', userId);
+        $.ajax({
+            url: $('#nightForm').attr('action'),
+            method: 'POST',
+            data: {
+                _token: token,
+                user_id: userId,
+                night: $button.data('state') == 'day' ? 1 : 0
+            },
+            success: function(response) {
+                console.log('Requête AJAX réussie :', response);
+                // Mettre à jour l'icône et l'état en fonction de la réponse du serveur
+                if (response.night == 1) {
+                    $button.html('<i class="fas fa-moon"></i>');
+                    $button.attr('data-state', 'night');
+                } else {
+                    $button.html('<i class="fas fa-sun"></i>');
+                    $button.attr('data-state', 'day');
+                }
+
+                // Réactiver le bouton après 1 seconde
+                setTimeout(function() {
+                    $button.prop('disabled', false);
+                }, 1000);
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+                console.error('Une erreur est survenue lors de la requête AJAX :', textStatus, errorThrown);
+
+                // Réactiver le bouton après 1 seconde
+                setTimeout(function() {
+                    $button.prop('disabled', false);
+                }, 1000);
+            }
+        });
+    });
+});
+
+</script>
+
 @stop
