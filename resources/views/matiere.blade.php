@@ -147,6 +147,9 @@
                                                             data-target='#editMatiere_modal' data-toggle="modal"
                                                             data-matiere ="{{ $matiere }}"><i
                                                                 class="fas fa-edit "></i></a>
+
+
+                                                    
                                                     @else
                                                         @foreach ($roles as $role)
                                                             @if ($role->slug == 'update_matieres')
@@ -349,6 +352,7 @@
             });
         });
     </script>
+   
 
 
 

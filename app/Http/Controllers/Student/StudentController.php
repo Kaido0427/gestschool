@@ -376,50 +376,72 @@ class StudentController extends Controller
      */
 
 
-     public function jour_soir(Request $request)
-     {
-         try {
-             Log::info('Début de la fonction jour_soir');
-     
-             $user = User::where('id', $request->user_id)->first();
-     
-             Log::info('Utilisateur trouvé : ' . $user->id);
-     
-             // Basculer la valeur de night entre 0 et 1
-             $newNightValue = ($user->night == 0) ? 1 : 0;
-     
-             Log::info('Nouvelle valeur de night : ' . $newNightValue);
-     
-             $user->update([
-                 'night' => $newNightValue
-             ]);
-     
-             Log::info('Mise à jour de l\'utilisateur : ' . $user->id . ' - Valeur night : ' . $user->night);
-     
-             return response()->json([
-                 'success' => 'Effectué avec succès',
-                 'night' => $user->night
-             ], 200);
-         } catch (\Exception $e) {
-             Log::error('Une erreur est survenue dans la fonction jour_soir : ' . $e->getMessage());
-     
-             return response()->json([
-                 'error' => 'Une erreur est survenue : ' . $e->getMessage()
-             ], 500);
-         }
-     }
-     
-    public function Mat_jour_soir(request $request)
+    public function jour_soir(Request $request)
     {
-        $matiere = matiere::where('mclass_id',  $request->input('matiere_id'));
+        try {
+            Log::info('Début de la fonction jour_soir');
 
-        $matiere->update([
-            'night' => 1
-        ]);
-        return response()->json([
-            'success' => 'effectué avec succes',
-            'night' => $matiere['night']
-        ], 200);
+            $user = User::where('id', $request->user_id)->first();
+
+            Log::info('Utilisateur trouvé : ' . $user->id);
+
+            // Basculer la valeur de night entre 0 et 1
+            $newNightValue = ($user->night == 0) ? 1 : 0;
+
+            Log::info('Nouvelle valeur de night : ' . $newNightValue);
+
+            $user->update([
+                'night' => $newNightValue
+            ]);
+
+            Log::info('Mise à jour de l\'utilisateur : ' . $user->id . ' - Valeur night : ' . $user->night);
+
+            return response()->json([
+                'success' => 'Effectué avec succès',
+                'night' => $user->night
+            ], 200);
+        } catch (\Exception $e) {
+            Log::error('Une erreur est survenue dans la fonction jour_soir : ' . $e->getMessage());
+
+            return response()->json([
+                'error' => 'Une erreur est survenue : ' . $e->getMessage()
+            ], 500);
+        }
+    }
+
+    public function Mat_jour_soir(Request $request)
+    {
+        try {
+            Log::info('Début de la fonction Mat_jour_soir');
+    
+            $coursId = $request->cours_id;
+            Log::info('ID de cours : ' . $coursId);
+    
+            // Récupérer la matière depuis la base de données
+            $cours = ClassMatiere::findOrFail($coursId);
+            Log::info('cours trouvée : ' . $cours->id);
+    
+            // Basculer la valeur de night
+            $cours->night = !$cours->night; // 0 devient 1, 1 devient 0
+    
+            Log::info('Nouvelle valeur de night : ' . $cours->night);
+    
+            // Sauvegarder les modifications dans la base de données
+            $cours->save();
+    
+            Log::info('Mise à jour du cours : ' . $cours->id . ' - Valeur night : ' . $cours->night);
+    
+            return response()->json([
+                'success' => 'Effectué avec succès',
+                'matiere_night' => $cours->night
+            ], 200);
+    
+        } catch (\Exception $e) {
+            Log::error('Une erreur est survenue dans la fonction Mat_jour_soir : ' . $e->getMessage());
+            return response()->json([
+                'error' => 'Une erreur est survenue : ' . $e->getMessage()
+            ], 500);
+        }
     }
     public function store(UserRequest $request)
     {

@@ -35,9 +35,13 @@
                                                         @if ($semestre->matieres->isNotEmpty())
                                                             <optgroup label="{{ $semestre->name }}">
                                                                 @php
-                                                                    $matieresNonAffectees = $semestre->matieres->reject(function ($matiere) use ($classe) {
-                                                                        return $classe->matieres->contains($matiere->id);
-                                                                    });
+                                                                    $matieresNonAffectees = $semestre->matieres->reject(
+                                                                        function ($matiere) use ($classe) {
+                                                                            return $classe->matieres->contains(
+                                                                                $matiere->id,
+                                                                            );
+                                                                        },
+                                                                    );
                                                                 @endphp
 
                                                                 @foreach ($matieresNonAffectees as $matiere)
@@ -198,6 +202,23 @@
                                                         <i class="fas fa-edit bg-warning"></i>
                                                     </a>
                                                 </button>
+                                                @if (in_array($classe->name, ['MFA1', 'MFA2']))
+                                                    <form id="MatnightForm">
+                                                        @csrf
+                                                        <input type="hidden" name="cours_id"
+                                                            value="{{ $classMatiere->id }}">
+                                                        <button id="MatnightBtn" class="btn btn-primary btn-xs"
+                                                            data-state="{{ $classMatiere->night ? 'night' : 'day' }}"
+                                                            data-cours-id="{{ $classMatiere->id }}">
+                                                            @if ($classMatiere->night)
+                                                                <i class="fas fa-moon"></i>
+                                                            @else
+                                                                <i class="fas fa-sun"></i>
+                                                            @endif
+                                                        </button>
+                                                    </form>
+                                                @endif
+
                                             </td>
                                         </tr>
                                     @endforeach
@@ -226,6 +247,66 @@
     </section>
 
     @include('includes._activate_modal')
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function() {
+            console.log('DOM chargé');
+            console.log($('#MatnightBtn').length); // Vérifie si le sélecteur trouve le bouton
 
+            // Utilisez la fonction .on() pour attacher le gestionnaire d'événements click
+            $(document).on('click', '#MatnightBtn', function() {
+                console.log('Bouton cliqué');
+                var $button = $(this);
+
+                // Désactiver le bouton pour éviter les clics multiples 
+                $button.prop('disabled', true);
+
+                // Changer l'icône par l'icône de chargement
+                $button.html('<i class="fas fa-spinner fa-spin"></i>');
+
+                // Récupérer l'ID de l'utilisateur à partir de l'attribut data-user-id
+                var matId = $button.data('cours-id');
+
+                // Ajouter le jeton CSRF aux données de la requête
+                var token = $('meta[name="csrf-token"]').attr('content');
+                console.log('ID de cours :', matId);
+
+                // Envoyer une requête AJAX pour basculer la valeur de 'night'
+                $.ajax({
+                    url: '{{ route('matieres.night') }}',
+                    method: 'POST',
+                    data: {
+                        _token: token,
+                        cours_id: matId
+                    },
+                    success: function(response) {
+                        console.log('Requête AJAX réussie :', response);
+
+                        // Mettre à jour l'icône et l'état en fonction de la réponse du serveur
+                        var icon = response.matiere_night ? '<i class="fas fa-moon"></i>' :
+                            '<i class="fas fa-sun"></i>';
+                        var state = response.matiere_night ? 'night' : 'day';
+                        $button.html(icon);
+                        $button.attr('data-state', state);
+
+                        // Réactiver le bouton après 1 seconde
+                        setTimeout(function() {
+                            $button.prop('disabled', false);
+                        }, 1000);
+                    },
+                    error: function(jqXHR, textStatus, errorThrown) {
+                        console.error('Une erreur est survenue lors de la requête AJAX :',
+                            textStatus, errorThrown);
+
+                        // Réactiver le bouton après 1 seconde
+                        setTimeout(function() {
+                            $button.prop('disabled', false);
+                        }, 1000);
+                    }
+                });
+            });
+        });
+    </script>
 
 @stop
