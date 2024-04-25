@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'liste  des étudiants')
+@section('title', 'liste des étudiants')
 @section('content')
 
     <section class="content">
@@ -25,55 +25,49 @@
                                         <th>Actions </th>
                                     </tr>
                                 </thead>
+
                                 <tbody>
-                                @foreach ( $students as $student )
-                                    <tr>
-                                        <td> {{ $student->student->name }} </td>
-                                        <td> {{ $student->student->firstname }} </td>
-                                        <td> {{ $student->student->phone }} </td>
+                                    @foreach ($students as $student)
+                                        @if (($cours->night === 1 && $student->student->night === 1) || ($cours->night === 0 && $student->student->night === 0))
+                                            <tr>
+                                                <td> {{ $student->student->name }} </td>
+                                                <td> {{ $student->student->firstname }} </td>
+                                                <td> {{ $student->student->phone }} </td>
 
-                                        <td>
-                                            @if (count($student->student->evaluation))
-                                                
-                                                {{ $student->student->evaluation[0]['controle']}}
-                                                    
-                                            @endif
-                                         
-                                        </td>
+                                                <td>
+                                                    @if (count($student->student->evaluation))
+                                                        {{ $student->student->evaluation[0]['controle'] }}
+                                                    @endif
+                                                </td>
 
-                                        <td>
-                                            @if (count($student->student->evaluation))
+                                                <td>
+                                                    @if (count($student->student->evaluation))
+                                                        {{ $student->student->evaluation[0]['examen'] }}
+                                                    @endif
+                                                </td>
 
-                                            {{ $student->student->evaluation[0]['examen']}}
+                                                <td>
+                                                    @if (count($student->student->evaluation))
+                                                        {{ $student->student->evaluation[0]['examen'] + $student->student->evaluation[0]['controle'] }}
+                                                    @endif
+                                                </td>
+                                                <td>
+                                                    <button type="button" class="btn bg-gradient-secondary btn-xs"
+                                                        title="Ajouter une note à: {{ $student->student->name . ' ' . $student->student->firstname }}">
 
-                                            @endif
-                                        </td>
-                                    
-                                        <td>  
-                                        @if (count($student->student->evaluation))
+                                                        <a style="color: white;"
+                                                            href="/classe/{{ $student->mclass_id }}/matiere/{{ $matiere }}/student/{{ $student->student['matricule'] }}"
+                                                            data-id="">
 
-                                            {{ $student->student->evaluation[0]['examen'] + $student->student->evaluation[0]['controle'] }}
-
+                                                            <i class="fas fa-plus"></i>
+                                                        </a>
+                                                    </button>
+                                                </td>
+                                            </tr>
                                         @endif
-                                        </td>
-                                        <td>
-                                            <button type="button" class="btn bg-gradient-secondary btn-xs" title="Ajouter une note à: {{ $student->student->name." ".$student->student->firstname  }}">
-                                               
-                                                <a style="color: white;" href="/classe/{{$student->mclass_id}}/matiere/{{$matiere}}/student/{{$student->student['matricule']}}"   data-id="">
-                                                    
-                                                    <i class="fas fa-plus"></i>
-                                                </a> 
-                                            </button>
-
-                                        
-                                        </td>
-
-                                    </tr>
-
-                                @endforeach
-                                
-                                
+                                    @endforeach
                                 </tbody>
+
                                 <tfoot>
                                     <tr>
                                         <th>Noms</th>
