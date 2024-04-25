@@ -14,6 +14,7 @@ use App\Http\Requests\UserRequest;
 use App\Models\Avatar;
 use App\Models\Evaluate;
 use App\Models\Matiere;
+use App\Models\MatiereTeacher;
 use App\Models\Promotion;
 use App\Models\Semestre;
 use App\Models\StudentClasse;
@@ -146,7 +147,7 @@ class StudentController extends Controller
                         ->where('semestres.id', $semestre);
                 })
                 ->get();
-                
+
 
             $semestreObjet = Semestre::findOrFail($semestre);
 
@@ -438,6 +439,13 @@ class StudentController extends Controller
             $cours->save();
 
             Log::info('Mise à jour du cours : ' . $cours->id . ' - Valeur night : ' . $cours->night);
+
+
+            $prof = MatiereTeacher::where('matiere_id', $cours->matiere_id)->where('user_id', $cours->user_id)->first();
+            $prof->night = $cours->night;
+            $prof->save();
+            Log::info('Mise à jour de l\'affectation n:' . $prof->id . ' de : ' . $prof->teacher->name . ' pour le cours ' . $cours->matiere->name . '- Valeur night : ' . $prof->night);
+
 
             return response()->json([
                 'success' => 'Effectué avec succès',

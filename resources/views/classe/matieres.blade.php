@@ -158,7 +158,7 @@
                                     @foreach ($classeWithMatieres as $classMatiere)
                                         <tr>
                                             <td class="text-center">{{ $classMatiere->matiere->name }}
-                                                @if (in_array($classe->name, ['MFA1', 'MFA2']))
+                                                @if (in_array($classe->name, ['MFA1', 'MFA2','MPSE 1','MPSE 2']))
                                                     <strong id="daynight">
 
                                                         @if ($classMatiere->night === 1)
@@ -220,7 +220,7 @@
                                                         <i class="fas fa-edit bg-warning"></i>
                                                     </a>
                                                 </button>
-                                                @if (in_array($classe->name, ['MFA1', 'MFA2']))
+                                                @if (in_array($classe->name, ['MFA1', 'MFA2','MPSE 1','MPSE 2']))
                                                     <form id="MatnightForm">
                                                         @csrf
                                                         <input type="hidden" name="cours_id"
