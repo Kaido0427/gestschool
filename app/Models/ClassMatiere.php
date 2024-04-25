@@ -18,8 +18,9 @@ class ClassMatiere extends Model
         'credit_number',
         'max_note',
         'promotion_id',
-        'sector_id', // Ajout du champ sector_id
-        'level_id', // Ajout du champ level_id
+        'sector_id',
+        'level_id', 
+        'night'
     ];
 
 

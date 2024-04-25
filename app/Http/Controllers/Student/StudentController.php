@@ -146,18 +146,26 @@ class StudentController extends Controller
                         ->where('semestres.id', $semestre);
                 })
                 ->get();
+                
 
             $semestreObjet = Semestre::findOrFail($semestre);
 
             //  Je Supprime les espaces supplémentaires du nom du semestre
             $semestreName = trim($semestreObjet->name);
 
+            // Je récupère dans une variable la note maximale de la classe en fonction du cursus
+            if (in_array($userClasse->mclass->name, ['LU1', 'LU2', 'LU3', 'LC1', 'LC2', 'MFA1', 'MFA2'])) {
+                $max = 30;
+            } else {
+                $max = 20;
+            }
+
 
             $viewPath = 'student.promotion.bulletin-semestre2'; // Par défaut, le cas non spécifié
 
             // Vérification du chemin de la vue
             if ($viewPath !== '') {
-                return view($viewPath, compact('getUser', 'semestre', 'getPromotion', 'semestreObjet', 'userClasse', 'matieres'));
+                return view($viewPath, compact('getUser', 'max', 'semestre', 'getPromotion', 'semestreObjet', 'userClasse', 'matieres'));
             }
         } catch (\Exception $e) {
             Log::error('Error displaying bulletin: ' . $e->getMessage());
@@ -413,29 +421,28 @@ class StudentController extends Controller
     {
         try {
             Log::info('Début de la fonction Mat_jour_soir');
-    
+
             $coursId = $request->cours_id;
             Log::info('ID de cours : ' . $coursId);
-    
+
             // Récupérer la matière depuis la base de données
             $cours = ClassMatiere::findOrFail($coursId);
             Log::info('cours trouvée : ' . $cours->id);
-    
+
             // Basculer la valeur de night
             $cours->night = !$cours->night; // 0 devient 1, 1 devient 0
-    
+
             Log::info('Nouvelle valeur de night : ' . $cours->night);
-    
+
             // Sauvegarder les modifications dans la base de données
             $cours->save();
-    
+
             Log::info('Mise à jour du cours : ' . $cours->id . ' - Valeur night : ' . $cours->night);
-    
+
             return response()->json([
                 'success' => 'Effectué avec succès',
                 'matiere_night' => $cours->night
             ], 200);
-    
         } catch (\Exception $e) {
             Log::error('Une erreur est survenue dans la fonction Mat_jour_soir : ' . $e->getMessage());
             return response()->json([

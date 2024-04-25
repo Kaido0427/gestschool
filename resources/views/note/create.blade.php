@@ -27,8 +27,12 @@
                                     <div class="form-group row">
                                         <label for="inputName" class="col-sm-2 col-form-label">Note</label>
                                         <div class="col-sm-10">
-                                        <input type="hidden" required  name="matiere_id" value="{{ $mymatiere['id']}}">
+                                        <input type="hidden" required  name="matiere_id" value="{{$classMatiere->matiere_id}}">
+                                        <input type="hidden" required  name="classe_id" value="{{$classe->id}}">
                                         <input type="hidden" required  name="user_id" value="{{ $user['id']}}">
+                                       
+                                        <input type="hidden" required  name="cours_id" value="{{ $classMatiere->id}}">
+
 
                                         <input type="number" required class="form-control" id="inputName" min=0 max={{$classMatiere['max_note']}} step="0.01" name="note" placeholder="Note sur {{ $classMatiere['max_note'] }}">
                                         </div>

@@ -75,17 +75,21 @@ class TeacherController extends Controller
 
     public function students($teacher, $matiere, $classe)
     {
+
+        $cours = ClassMatiere::where('matiere_id', $matiere)->where('user_id', auth()->user()->id)->first();
+        $matiereId = $cours->matiere_id;
+        $teacher = MatiereTeacher::where('user_id', $teacher)->first();
         //dd($matiere, intval($matiere));
         $students = StudentClasse::where('promotion_id', CurrentPromotion::currentPromotion()->id)
             ->where('mclass_id', $classe)
-            ->with('student', function ($std) use ($matiere) {
-                $std->with(['evaluation' => function ($e)  use ($matiere) {
-                    $e->where('matiere_id', $matiere);
+            ->with('student', function ($std) use ($matiereId) {
+                $std->with(['evaluation' => function ($e)  use ($matiereId) {
+                    $e->where('matiere_id', $matiereId);
                 }]);
             })->get();
 
         //dd($teacher);
-        return view('teacher.students', compact('students', 'matiere'));
+        return view('teacher.students', compact('students', 'matiere','teacher','cours'));
     }
     public function dashboard()
     {

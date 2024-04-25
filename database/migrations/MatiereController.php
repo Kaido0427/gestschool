@@ -18,8 +18,6 @@ use Illuminate\Support\Facades\Log;
 
 class MatiereController extends Controller
 {
-
-
     public function classeData(Request $request)
     {
         $currentPromo = CurrentPromotion::currentPromotion()['id'];
@@ -38,103 +36,50 @@ class MatiereController extends Controller
             ->exists();
 
         if ($checkClassMatiere) {
-            // Vérifier si un enregistrement avec "night" à 1 existe déjà
-            $checkClassMatiereNight = ClassMatiere::where('mclass_id', $request->classe_id)
-                ->where('matiere_id', $matiere->id)
-                ->where('night', 1)
-                ->exists();
-
-            if ($checkClassMatiereNight) {
-                // Vérifier si un enregistrement avec "night" à 0 existe déjà
-                $checkClassMatiereDay = ClassMatiere::where('mclass_id', $request->classe_id)
-                    ->where('matiere_id', $matiere->id)
-                    ->where('night', 0)
-                    ->exists();
-
-                if ($checkClassMatiereDay) {
-                    // Un enregistrement avec "night" à 1 et un enregistrement avec "night" à 0 existent déjà, ne rien faire
-                    return redirect()->back()->with('error', 'Cette matière a déjà été ajoutée à la classe en journée et en soirée');
-                } else {
-                    // Créer un nouvel enregistrement avec "night" à 0
-                    $classMatiereData = [
-                        'mclass_id' => $request->classe_id,
-                        'matiere_id' => $matiere->id,
-                        'syllabus' => null,
-                        'user_id' => $teacherId,
-                        'credit_number' => $request->credit_number,
-                        'max_note' => $request->max_note,
-                        'promotion_id' => $currentPromo,
-                        'night' => 0
-                    ];
-
-                    ClassMatiere::create($classMatiereData);
-
-                    // Enregistrer les professeurs
-                    DB::table('matiere_teachers')->Insert(
-                        [
-                            'user_id' => $teacherId,
-                            'matiere_id' => $matiere->id,
-                            'promotion_id' => $currentPromo,
-                            'night' => $classMatiereData['night']
-                        ]
-                    );
-
-                    return redirect()->back()->with('success', 'Les informations ont bien été enregistrées');
-                }
-            } else {
-                // Créer un nouvel enregistrement avec "night" à 1
-                $classMatiereData = [
-                    'mclass_id' => $request->classe_id,
-                    'matiere_id' => $matiere->id,
-                    'syllabus' => null,
-                    'user_id' => $teacherId,
-                    'credit_number' => $request->credit_number,
-                    'max_note' => $request->max_note,
-                    'promotion_id' => $currentPromo,
-                    'night' => 1
-                ];
-
-                ClassMatiere::create($classMatiereData);
-
-                // Enregistrer les professeurs
-                DB::table('matiere_teachers')->Insert(
-                    [
-                        'user_id' => $teacherId,
-                        'matiere_id' => $matiere->id,
-                        'promotion_id' => $currentPromo,
-                        'night' => $classMatiereData['night']
-                    ]
-                );
-
-                return redirect()->back()->with('success', 'Les informations ont bien été enregistrées');
-            }
-        } else {
-            // Créer un nouvel enregistrement avec "night" à 0
-            $classMatiereData = [
-                'mclass_id' => $request->classe_id,
-                'matiere_id' => $matiere->id,
-                'syllabus' => null,
-                'user_id' => $teacherId,
-                'credit_number' => $request->credit_number,
-                'max_note' => $request->max_note,
-                'promotion_id' => $currentPromo,
-                'night' => 0
-            ];
-
-            ClassMatiere::create($classMatiereData);
-
-            // Enregistrer les professeurs
-            DB::table('matiere_teachers')->Insert(
-                [
-                    'user_id' => $teacherId,
-                    'matiere_id' => $matiere->id,
-                    'promotion_id' => $currentPromo
-                ]
-            );
-
-            return redirect()->back()->with('success', 'Les informations ont bien été enregistrées');
+            return redirect()->back()->with('error', 'Cette matière a déjà été ajoutée à la classe');
         }
+
+
+        DB::table('matiere_teachers')->Insert(
+            [
+                'user_id' => $teacherId,
+                'matiere_id' => $matiere->id,
+                'promotion_id' => $currentPromo
+            ]
+        );
+
+
+        // Validation des données pour le syllabus s'il est présent
+        if ($request->has('syllabus')) {
+            $validatedData = $request->validate([
+                'syllabus' => 'required|file|mimes:pdf|max:2048',
+            ]);
+
+            $file = $request->file('syllabus');
+            $fileName = time() . '_' . $file->getClientOriginalName();
+            $destinationPath = 'uploads';
+            $file->move($destinationPath, $fileName);
+        } else {
+            $fileName = null;
+        }
+
+        // Création de la relation ClassMatiere
+        $classMatiereData = [
+            'mclass_id' => $request->classe_id,
+            'matiere_id' => $matiere->id,
+            'syllabus' => $fileName,
+            'user_id' => $teacherId,
+            'credit_number' => $request->credit_number,
+            'max_note' => $request->max_note,
+            'promotion_id' => CurrentPromotion::currentPromotion()['id']
+        ];
+
+        ClassMatiere::create($classMatiereData);
+
+        return redirect()->back()->with('success', 'Les informations ont bien été enregistrées');
     }
+
+
 
     public function updateClasseData(Request $request, $id)
     {
@@ -211,7 +156,6 @@ class MatiereController extends Controller
      */
     public function index()
     {
-        $classes = Mclass::all();
         $matieres = Matiere::all();
         $user = User::find(auth()->user()->id);
         $roles = $user->roles()->select('slug')->get();
@@ -219,22 +163,14 @@ class MatiereController extends Controller
         $teachers = User::where('type', 'teacher')->get();
         $ueSemestres = [];
 
-
-        $classNames = $classes->pluck('name')->toArray(); //Je Récupére les noms de classe sous forme de tableau
-
-        if (count(array_intersect($classNames, ['LU1', 'LU2', 'LU3', 'LC1', 'LC2', 'MFA1', 'MFA2'])) > 0) {
-            $max = 30;
-        } else {
-            $max = 20;
-        }
-
         foreach ($ues as $ue) {
             $ueSemestres[$ue->id] = $ue->semestres;
         }
+
         $matiereId = request()->input('matiere_id'); // Supposons que vous passiez l'ID de la matière sélectionnée dans la requête
         $matiereSelect = Matiere::find($matiereId);
 
-        return view('matiere', compact('matieres', 'roles', 'max', 'ues', 'teachers', 'ueSemestres', 'matiereSelect'));
+        return view('matiere', compact('matieres', 'roles', 'ues', 'teachers', 'ueSemestres', 'matiereSelect'));
     }
 
 

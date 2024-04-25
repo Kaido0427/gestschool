@@ -11,7 +11,7 @@ class MatiereTeacher extends Model
 
     protected $table="matiere_teachers";
     protected $fillable = [
-        "promotion_id", "matiere_id", "user_id"
+        "promotion_id", "matiere_id", "user_id","night"
     ];
 
     public function matiere()

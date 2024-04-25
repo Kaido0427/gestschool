@@ -22,7 +22,6 @@
                                     <input type="hidden" name="classe_id" value="{{ $classe->id }}">
                                     <div class="modal-body">
                                         <div class="card-body">
-
                                             @php
                                                 $totalMatiereNonAffectees = 0;
                                             @endphp
@@ -36,19 +35,29 @@
                                                             <optgroup label="{{ $semestre->name }}">
                                                                 @php
                                                                     $matieresNonAffectees = $semestre->matieres->reject(
-                                                                        function ($matiere) use ($classe) {
-                                                                            return $classe->matieres->contains(
-                                                                                $matiere->id,
-                                                                            );
+                                                                        function ($matiere) use ($classeWithMatieres) {
+                                                                            $countJour = $classeWithMatieres
+                                                                                ->where('matiere_id', $matiere->id)
+                                                                                ->where('time', 0)
+                                                                                ->count();
+                                                                            $countSoir = $classeWithMatieres
+                                                                                ->where('matiere_id', $matiere->id)
+                                                                                ->where('time', 1)
+                                                                                ->count();
+                                                                            return $countJour >= 1 && $countSoir >= 1; // Vérifier si la matière a déjà été ajoutée deux fois à la classe (une fois pour "jour" et une fois pour "soir")
                                                                         },
                                                                     );
                                                                 @endphp
 
                                                                 @foreach ($matieresNonAffectees as $matiere)
-                                                                    <option value="{{ $matiere->id }}"
-                                                                        {{ old('matiere_id') == $matiere->id ? 'selected' : '' }}>
-                                                                        {{ $matiere->name }}
-                                                                    </option>
+                                                                    @if ($classeWithMatieres->where('matiere_id', $matiere->id)->count() < 2)
+                                                                        // Vérifier si la matière a déjà été ajoutée deux
+                                                                        fois à la classe (un pour "jour" et un pour "soir")
+                                                                        <option value="{{ $matiere->id }}"
+                                                                            {{ old('matiere_id') == $matiere->id ? 'selected' : '' }}>
+                                                                            {{ $matiere->name }}
+                                                                        </option>
+                                                                    @endif
                                                                 @endforeach
                                                             </optgroup>
                                                         @else
@@ -59,8 +68,6 @@
                                                     @endforeach
                                                 </select>
                                             </div>
-
-
 
 
                                             <div class="form-group">
@@ -150,7 +157,18 @@
                                 <tbody>
                                     @foreach ($classeWithMatieres as $classMatiere)
                                         <tr>
-                                            <td class="text-center">{{ $classMatiere->matiere->name }}</td>
+                                            <td class="text-center">{{ $classMatiere->matiere->name }}
+                                                @if (in_array($classe->name, ['MFA1', 'MFA2']))
+                                                    <strong id="daynight">
+
+                                                        @if ($classMatiere->night === 1)
+                                                            (Soir)
+                                                        @else
+                                                            (Jour)
+                                                        @endif
+                                                    </strong>
+                                                @endif
+                                            </td>
                                             <td class="text-center">{{ $classMatiere->matiere->ue->name }}</td>
                                             <td class="text-center">
                                                 @foreach ($classMatiere->matiere->semestres as $semestre)
@@ -287,13 +305,17 @@
                         var icon = response.matiere_night ? '<i class="fas fa-moon"></i>' :
                             '<i class="fas fa-sun"></i>';
                         var state = response.matiere_night ? 'night' : 'day';
+                        var content = response.matiere_night ? '(Soir)' : '(Jour)';
                         $button.html(icon);
                         $button.attr('data-state', state);
+
+                        var content = response.matiere_night ? '(Soir)' : '(Jour)';
+                        $button.closest('tr').find('#daynight').text(content);
 
                         // Réactiver le bouton après 1 seconde
                         setTimeout(function() {
                             $button.prop('disabled', false);
-                        }, 1000);
+                        }, 500);
                     },
                     error: function(jqXHR, textStatus, errorThrown) {
                         console.error('Une erreur est survenue lors de la requête AJAX :',
